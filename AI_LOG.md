@@ -8,6 +8,7 @@ O enunciado permite ferramentas de IA desde que cada uso seja registrado e que o
 | 28/10/2026 | Fase 1 | Pesquisa e verificação de bases externas (API do Zenodo, SIDRA, portais); redação do relatório | `scripts/gerar_relatorio_base_dados.py`, `relatorios/base_dados.pdf` |
 | 11/11/2026 | Fase 2 | Busca das inconsistências do `data.json`; script de limpeza; scripts de coleta (Zenodo e ObservaPOA); processamento da base da UFRGS; notebook de EDA; relatório | `scripts/limpeza_inct.py`, `scripts/coleta_zenodo.py`, `scripts/coleta_bairros.py`, `scripts/processa_tela2.py`, `notebooks/eda.ipynb`, `relatorios/limpeza_dados.pdf` |
 | 11/11/2026 | Fase 3 | Código do dashboard (duas telas); relatório do dashboard; README | `app/*.py`, `scripts/gerar_relatorios.py`, `relatorios/dashboard.pdf`, `README.md` |
+| 27/11/2026 | Versão final | Commit e push das Fases 2 e 3; dependências do app em `app/requirements.txt`; teste do dashboard a partir de um clone limpo; atualização do README e dos relatórios para execução local | `app/requirements.txt`, `README.md`, `scripts/gerar_relatorios.py`, `relatorios/dashboard.pdf` |
 
 ## Decisões que o autor precisa saber explicar
 

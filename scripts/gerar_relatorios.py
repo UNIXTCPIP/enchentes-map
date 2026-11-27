@@ -28,7 +28,7 @@ REL = RAIZ / "relatorios"
 IMG = REL / "img"
 AUTOR = "Renato Trindade"
 REPO = "https://github.com/UNIXTCPIP/enchentes-map"
-LINK_DASHBOARD = ""  # preencher depois de publicar (Streamlit Community Cloud)
+LINK_DASHBOARD = ""  # vazio: o dashboard roda localmente (streamlit run app/app.py)
 AZUL, LARANJA = "#2f6ea5", "#b8621b"
 
 ss = getSampleStyleSheet()
@@ -292,7 +292,7 @@ def relatorio_dashboard(limpo, area, escolas):
     a53 = limpo[np.isclose(limpo.nivel_m, 5.3)]
     obs = area[area.tipo == "observada"]
     comp = a53[["bairro", "percentage"]].merge(obs[["bairro", "pct_area"]], on="bairro")
-    link = LINK_DASHBOARD or "ainda não publicado (ver seção 6)"
+    link = LINK_DASHBOARD or "execução local, http://localhost:8501 (ver seção 6)"
     s = [
         p("Fase 3 · Relatório do dashboard", H1),
         p("Projeto Extensionista · Dashboard de Enchentes em Porto Alegre · INCT SiMAI", P),
@@ -391,13 +391,22 @@ def relatorio_dashboard(limpo, area, escolas):
           "(06/05/2024) e a comparação usa o nível do INCT mais próximo, com passo de 0,1 m.<br/>"
           "• As manchas foram simplificadas (tolerância de 25 m) para o mapa carregar rápido."),
 
-        p("6. Publicação", H2),
-        p(f"Link público: {link}. O aplicativo está pronto para o Streamlit Community Cloud: "
-          "repositório " + REPO + ", arquivo principal " + MONO("app/app.py") + ". Os dados "
-          "processados estão versionados, então a publicação não precisa baixar nada."),
+        p("6. Execução e publicação", H2),
+        p("O dashboard é executado localmente com Streamlit: " + MONO("pip install -r requirements.txt") +
+          " e " + MONO("streamlit run app/app.py") + ", que abre em http://localhost:8501. Os dados "
+          "processados estão versionados no repositório, então não é preciso baixar nada. Se for "
+          "necessário um link público, o app está pronto para o Streamlit Community Cloud "
+          "(repositório " + REPO + ", arquivo principal " + MONO("app/app.py") + ", dependências em "
+          + MONO("app/requirements.txt") + ")."),
+
+        p("7. Histórico de versões", H2),
+        p("• 28/10/2026: Fase 1, levantamento das bases (base_dados.pdf).<br/>"
+          "• 11/11/2026: Fase 2, limpeza, coleta e EDA; primeira versão das duas telas.<br/>"
+          "• 27/11/2026: versão final. Dependências do app separadas em app/requirements.txt, "
+          "teste completo a partir de um clone limpo do repositório, documentação de execução local."),
 
         p("Registro de uso de IA", H2),
-        p("O Claude Code foi usado em 11/11/2026 para escrever o código do dashboard e este "
+        p("O Claude Code foi usado em 11/11/2026 e 27/11/2026 para escrever o código do dashboard e este "
           "relatório. O autor deve revisar e saber explicar cada parte. O histórico está em AI_LOG.md.",
           SMALL),
     ]

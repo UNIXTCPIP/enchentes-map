@@ -4,7 +4,7 @@ Projeto extensionista da disciplina Coleta, Preparação e Análise de Dados (PU
 
 **Aluno:** Renato Trindade
 
-**Dashboard publicado:** ainda não publicado (ver "Publicação" abaixo)
+**Dashboard:** roda localmente com Streamlit (ver "Como rodar"). Abre em http://localhost:8501.
 
 > Os números são estimativas de uma simulação, não previsões nem contagens oficiais.
 
@@ -60,7 +60,7 @@ enchentes-map/
 
 ## Publicação
 
-No [Streamlit Community Cloud](https://share.streamlit.io): New app → repositório `UNIXTCPIP/enchentes-map`, branch `main`, arquivo principal `app/app.py`. Depois de publicar, colocar o link no topo deste README e em `LINK_DASHBOARD` de `scripts/gerar_relatorios.py`.
+O dashboard é executado localmente (`streamlit run app/app.py`). Se for preciso um link público, ele está pronto para o [Streamlit Community Cloud](https://share.streamlit.io): repositório `UNIXTCPIP/enchentes-map`, branch `main`, arquivo principal `app/app.py` (as dependências do app estão em `app/requirements.txt`).
 
 ## Uso de IA
 
