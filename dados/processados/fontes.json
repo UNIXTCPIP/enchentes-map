@@ -1,0 +1,26 @@
+[
+  {
+    "dado": "Manchas de inundação (simuladas e observada), escolas (INEP 2023) e abrigos",
+    "fonte": "Banco de dados das cheias na Região Hidrográfica do Lago Guaíba em Maio de 2024 (v.1.4), UFRGS e colaboradores",
+    "link": "https://zenodo.org/records/14617475",
+    "licenca": "CC-BY-4.0",
+    "coleta": "API REST do Zenodo (scripts/coleta_zenodo.py)",
+    "data_coleta": "2026-11-11"
+  },
+  {
+    "dado": "Limites oficiais dos bairros",
+    "fonte": "ObservaPOA / Prefeitura de Porto Alegre - Bairros Oficiais (SHP)",
+    "link": "https://prefeitura.poa.br/smpg/observapoa/mapas",
+    "licenca": "dado público municipal",
+    "coleta": "download automatizado (scripts/coleta_bairros.py)",
+    "data_coleta": "2026-11-11"
+  },
+  {
+    "dado": "Simulação por bairro e nível (Tela 1)",
+    "fonte": "INCT SiMAI, arquivo data.json fornecido na disciplina",
+    "link": "https://inct-simai.com.br/?page=home",
+    "licenca": "uso acadêmico",
+    "coleta": "arquivo fornecido pelo parceiro",
+    "data_coleta": "2026-10-28"
+  }
+]

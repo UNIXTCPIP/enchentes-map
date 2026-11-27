@@ -1,0 +1,946 @@
+escola,rede,bairro,lat,lon,poa_inundacao_2015_294cm,poa_inundacao_1967_313cm,poa_inundacao_2023_set_318cm,poa_inundacao_2023_nov_346cm,poa_inundacao_1941_475cm,poa_inundacao_simulada_500cm,poa_inundacao_2024_530cm,poa_inundacao_simulada_550cm,poa_inundacao_simulada_600cm,poa_inundacao_simulada_650cm,poa_inundacao_simulada_700cm,rhguaiba_planet-skysat_inundacao_obs_20240506
+Esc Ens Medio Cesi Zona Sul,Privada,Hípica,-30.16047,-51.18704,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Tecnica Cecilia Meireles - Seg,Privada,Centro Histórico,-30.03075,-51.23133,True,True,True,True,True,True,True,True,True,True,True,False
+Qi Escolas E Faculdades Ltdaalberto Bins Poa,Privada,Centro Histórico,-30.02812,-51.22237,False,False,False,False,False,False,False,False,False,False,False,False
+Qi Escolas E Faculdades Ltda Julio De Castilhos Poa,Privada,Centro Histórico,-30.02523,-51.22271,True,True,True,True,True,True,True,True,True,True,True,True
+Ifrs - Campus Porto Alegre Restinga,Federal,Restinga,-30.14188,-51.13075,False,False,False,False,False,False,False,False,False,False,False,False
+E E Ind Ens Fun Pindo Poty,Estadual,Lami,-30.22072,-51.09536,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Aquarela Do Saber,Privada,Santana,-30.04889,-51.20554,False,False,False,False,False,False,False,False,False,False,False,False
+Iei Creche Do Coracao,Privada,Cascata,-30.09194,-51.1752,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Pequenos Brilhantes,Privada,Rubem Berta,-30.01355,-51.09916,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Cambalhota Kids,Privada,Santana,-30.05208,-51.20386,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Gente Miuda,Privada,Vila Ipiranga,-30.01247,-51.148,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Sobradinho Alegre,Privada,Petrópolis,-30.03969,-51.1946,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Pampeano,Privada,Mont'Serrat,-30.0293,-51.19355,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Pais E Filhos,Privada,Menino Deus,-30.06071,-51.22837,False,False,False,True,True,True,True,True,True,True,True,False
+Eei Mundo Magico Da Alegria,Privada,Espírito Santo,-30.14776,-51.2123,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Marista Irmao Jaime Biazus,Privada,Mário Quintana,-30.02402,-51.09608,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Alegria De Crianca,Privada,Sarandi,-29.99644,-51.12831,False,False,False,False,False,False,False,False,True,True,True,True
+Eei Turminha Do Puff,Privada,Lomba do Pinheiro,-30.11369,-51.10212,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Criarte,Privada,Passo D'Areia,-30.01839,-51.16315,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Igorzinho,Privada,Aberta dos Morros,-30.1577,-51.19768,False,False,False,False,False,False,False,False,False,False,False,False
+5218 Iei Carlos Alberto Tejera De Re,Privada,Teresópolis,-30.08386,-51.20055,False,False,False,False,False,False,False,False,False,False,False,False
+5217 Eei Eduarda Pujol Zaniratti,Privada,Restinga,-30.15047,-51.14523,False,False,False,False,False,False,False,False,False,False,False,False
+5211 Eei Jardim Do Futuro,Privada,Lomba do Pinheiro,-30.12544,-51.10755,False,False,False,False,False,False,False,False,False,False,False,False
+5210 Iei Eremi,Privada,Partenon,-30.06601,-51.19386,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Colibri,Privada,Boa Vista,-30.0225,-51.17941,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Banana Nanika,Privada,Petrópolis,-30.04281,-51.18099,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Cantinho Do Saber,Privada,Nonoai,-30.09168,-51.22279,False,False,False,False,False,False,False,False,False,False,False,False
+Instituto Educacional Reverendo Olavo Nunes,Privada,Santa Maria Goretti,-30.00432,-51.18207,False,False,False,True,True,True,True,True,True,True,True,True
+5207 Eei Irmao Mario Frigo,Privada,Farrapos,-29.98334,-51.19978,True,True,True,True,True,True,True,True,True,True,True,True
+Eei Pequeno Aprendiz,Privada,Petrópolis,-30.0436,-51.18847,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Sonho De Crianca,Privada,Higienópolis,-30.02105,-51.18278,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Joao E Maria,Privada,Cristo Redentor,-30.01693,-51.1576,False,False,False,False,False,False,False,False,False,False,False,False
+Kinderhouse Escola De Educacao Infantil Ltda - Me,Privada,Rio Branco,-30.0298,-51.19944,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Lapis De Cor,Privada,Floresta,-30.02766,-51.21645,False,False,False,False,False,False,False,False,False,False,False,False
+Mundo Educacao Infantil,Privada,Menino Deus,-30.05744,-51.22498,False,False,False,False,True,True,True,True,True,True,True,False
+Eei Sitio Do Pica Pau Amarelo,Privada,Sarandi,-30.01019,-51.13866,False,False,False,False,False,False,False,False,False,False,False,False
+5205 Iei Osicom Iv - Nossa Senhora Da Salete,Privada,Morro Santana,-30.04193,-51.12081,False,False,False,False,False,False,False,False,False,False,False,False
+5209 Iei Acompar V - Luisa Casagrande Lewandowski,Privada,Santa Rosa de Lima,-30.00133,-51.10488,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Cativar,Privada,Vila Ipiranga,-30.01386,-51.14627,False,False,False,False,False,False,False,False,False,False,False,False
+Inst Educ Inf Abcb Crianca Paz E Bem,Privada,Aberta dos Morros,-30.15294,-51.20245,False,False,False,False,False,False,False,False,False,False,False,False
+Inst Educ Inf Abcb Sao Francisco,Privada,Ponta Grossa,-30.18329,-51.19362,True,True,True,True,True,True,True,True,True,True,True,False
+Eei Cantinho Do Ceu,Privada,Jardim Carvalho,-30.05673,-51.14759,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Ens Fund Waldorf Querencia,Privada,Jardim Isabel,-30.12711,-51.23822,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Carrossel,Privada,Santana,-30.03995,-51.21136,False,False,False,False,False,False,False,False,False,False,False,False
+5212 Eei Recanto Dos Pequeninos,Privada,Ponta Grossa,-30.18481,-51.19232,False,False,False,False,True,True,True,True,True,True,True,False
+5220 Iei Cantinho Do Sol,Privada,Chapéu do Sol,-30.1765,-51.1746,False,False,False,False,False,False,False,False,False,False,False,False
+5221 Eei Ana Maltz Knijnik,Privada,Vila Nova,-30.12555,-51.20219,False,False,False,False,False,False,False,False,False,False,False,False
+5222 Iei Prisma,Privada,Santa Tereza,-30.07799,-51.23086,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Agir,Privada,Centro Histórico,-30.03054,-51.22685,False,False,False,False,False,False,False,False,False,False,False,False
+5225 Iei Espaco Do Saber,Privada,Mário Quintana,-30.02947,-51.11699,False,False,False,False,False,False,False,False,False,False,False,False
+5227 Eei Madre Veronica,Privada,Cristal,-30.09413,-51.24407,False,False,False,True,True,True,True,True,True,True,True,False
+Eei Pimpao,Privada,Parque Santa Fé,-30.01495,-51.10963,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Projeto Crianca Sogipa,Privada,São João,-30.0093,-51.18877,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Casa Ametista,Privada,Petrópolis,-30.04557,-51.18882,False,False,False,False,False,False,False,False,False,False,False,False
+5250 Ecei Ursinhos Carinhosos,Privada,Lomba do Pinheiro,-30.1202,-51.10072,False,False,False,False,False,False,False,False,False,False,False,False
+5228 Iei Aprendendo Feliz,Privada,Restinga,-30.15049,-51.1351,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Sonho De Crianca Ii,Privada,São João,-30.01721,-51.19326,False,False,False,False,False,False,False,False,False,False,False,False
+5226 Eei Prof Marieta Paixao Araujo,Privada,Jardim Leopoldina,-30.02191,-51.10967,False,False,False,False,False,False,False,False,False,False,False,False
+Senac Tech,Privada,Azenha,-30.04303,-51.21947,False,False,False,False,True,True,True,True,True,True,True,False
+Senac Tech,Privada,Cidade Baixa,-30.04303,-51.21947,False,False,False,False,True,True,True,True,True,True,True,False
+5229 Iei Construindo O Amanha Vila Jardim,Privada,Vila Jardim,-30.03822,-51.15532,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Cativar - Partenon,Privada,Partenon,-30.07104,-51.19985,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Anjo Sapequinha,Privada,Cristo Redentor,-30.01295,-51.15774,False,False,False,False,False,False,False,False,False,False,False,False
+5239 Eei Meu Pedacinho De Chao,Privada,Restinga,-30.15859,-51.13622,False,False,False,False,False,False,False,False,False,False,False,False
+5238 Eei Cheirinho De Mae,Privada,Restinga,-30.1528,-51.14563,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Aquarela,Privada,Tristeza,-30.09865,-51.24773,False,False,False,False,True,True,True,True,True,True,True,False
+5230 Eei Abrasce Ilha Do Pavao,Privada,Arquipélago,-29.99529,-51.21698,True,True,True,True,True,True,True,True,True,True,True,True
+5232 Iei Salvatore Lettieri,Privada,Passo das Pedras,-30.01967,-51.12481,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Miguel Granato Velasquez,Municipal,Sarandi,-29.98207,-51.12404,True,True,True,True,True,True,True,True,True,True,True,True
+Emef Porto Novo,Municipal,Santa Rosa de Lima,-30.00139,-51.10745,False,False,False,False,False,False,False,False,False,False,False,False
+Senac Rio Grande Do Sul,Privada,Independência,-30.02787,-51.21843,False,False,False,False,False,False,False,False,False,False,False,False
+5236 Eei Pitinguinha,Privada,Pitinga,-30.14293,-51.10186,False,False,False,False,False,False,False,False,False,False,False,False
+Eep Ibrep - Ead,Privada,Centro Histórico,-30.02985,-51.22976,False,False,False,True,True,True,True,True,True,True,True,False
+5237 Eei Wlanir Porto,Privada,Serraria,-30.16364,-51.2279,False,False,False,False,False,False,True,True,True,True,True,True
+5233 Ecei Professora Vivi Reis,Privada,Restinga,-30.16576,-51.14758,False,False,False,False,False,False,False,False,False,False,False,False
+5240 Eei Jardim Floresta Lami,Privada,Lami,-30.23811,-51.08326,True,True,True,True,True,True,True,True,True,True,True,False
+5241 Eei Desenvolvendo O Saber,Privada,Restinga,-30.14727,-51.14997,False,False,False,False,False,False,False,False,False,False,False,False
+5235 Eei Eduarda Pujol Zaniratti Ii,Privada,Restinga,-30.16127,-51.15058,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Panamericana,Privada,Chácara das Pedras,-30.03834,-51.16671,False,False,False,False,False,False,False,False,False,False,False,False
+Centro De Ensino Medio Farroupilha Ten Cel Correia Lima,Privada,Santa Tereza,-30.06365,-51.22089,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio De Aplicacao Ufrgs,Federal,Agronomia,-30.07583,-51.12293,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Batista Brasil,Privada,Floresta,-30.02108,-51.20904,False,False,False,False,True,True,True,True,True,True,True,True
+Colegio Marista Champagnat,Privada,Partenon,-30.06063,-51.17299,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Concordia - Porto Alegre,Privada,São Geraldo,-30.00657,-51.20227,False,True,True,True,True,True,True,True,True,True,True,True
+Colegio Farroupilha,Privada,Três Figueiras,-30.03584,-51.17065,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Israelita Brasileiro,Privada,Santa Cecília,-30.04057,-51.19916,False,False,False,False,False,False,False,False,False,False,False,False
+Col Maria Imaculada,Privada,Santa Tereza,-30.06716,-51.23557,False,False,False,True,True,True,True,True,True,True,True,False
+Colegio Militar De Porto Alegre,Federal,Farroupilha,-30.03883,-51.21336,False,False,False,False,False,False,False,False,False,False,False,False
+Col Nossa Senhora Do Bom Conselho,Privada,Independência,-30.02741,-51.20914,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Nossa Sra Da Gloria,Privada,Glória,-30.07644,-51.20011,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio La Salle Dores,Privada,Centro Histórico,-30.03238,-51.23373,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Rainha Do Brasil,Privada,Santo Antônio,-30.05814,-51.20053,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Santa Ines,Privada,Petrópolis,-30.04375,-51.18439,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Santa Teresa De Jesus Porto Alegre,Privada,Cavalhada,-30.0981,-51.22978,False,False,False,False,False,False,False,False,False,False,False,False
+Col La Salle Santo Antonio,Privada,Santo Antônio,-30.05547,-51.20161,False,False,False,False,False,False,False,False,False,False,False,False
+Col La Salle Sao Joao,Privada,São João,-30.00823,-51.18648,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Sao Judas Tadeu,Privada,Cristo Redentor,-30.01136,-51.15483,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Marista Sao Pedro,Privada,Floresta,-30.01687,-51.20626,False,False,False,False,True,True,True,True,True,True,True,True
+Colegio Bom Jesus Sevigne,Privada,Centro Histórico,-30.03385,-51.22675,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Tecnica Est Irmao Pedro,Estadual,Floresta,-30.01729,-51.20275,False,False,False,False,False,False,False,False,False,False,True,False
+Esc Tecnica Est Jose Feijo,Estadual,Rubem Berta,-30.01406,-51.09698,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Protasio Alves,Estadual,Azenha,-30.04749,-51.21779,False,False,False,True,True,True,True,True,True,True,True,True
+Col Estadual Dom Joao Becker,Estadual,Passo D'Areia,-30.01307,-51.17667,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Candido Jose De Godoi,Estadual,Navegantes,-30.00219,-51.20284,False,False,False,True,True,True,True,True,True,True,True,True
+Esc Est Ens Med Infante Dom Henrique,Estadual,Menino Deus,-30.05947,-51.22133,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Julio De Castilhos,Estadual,Santana,-30.04438,-51.21292,False,False,False,False,False,False,False,False,True,True,True,False
+Esc Est Ens Med Padre Reus,Estadual,Tristeza,-30.10906,-51.25291,False,False,False,False,False,False,False,False,False,False,False,False
+Emem Emilio Meyer,Municipal,Medianeira,-30.06926,-51.20798,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Crianca Arteira,Privada,Petrópolis,-30.04727,-51.18671,False,False,False,False,False,False,False,False,False,False,False,False
+Esc De Ens Fund Nossa Senhora Do Cenaculo,Privada,Passo D'Areia,-30.01603,-51.17491,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Ens Medio Maria Imaculada,Privada,Medianeira,-30.06749,-51.21026,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Ens Fun Nossa Senhora Do Brasil,Privada,Vila João Pessoa,-30.06394,-51.17502,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Romano Sao Mateus,Privada,Jardim São Pedro,-30.00441,-51.16511,False,False,False,False,False,False,False,False,False,False,False,False
+Inst Estadual Professora Gema Angelina Belia,Estadual,Jardim Carvalho,-30.06203,-51.14896,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Nacoes Unidas,Estadual,Nonoai,-30.08994,-51.2263,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Adventista De Porto Alegre,Privada,Camaquã,-30.10402,-51.23909,False,False,False,False,False,False,False,False,False,False,False,False
+6001 Eef Pequena Casa Da Crianca,Privada,Partenon,-30.06544,-51.19465,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Afonso Guerreiro Lima,Municipal,Lomba do Pinheiro,-30.11133,-51.11218,False,False,False,False,False,False,False,False,False,False,False,False
+Emef America,Municipal,Coronel Aparício Borges,-30.07853,-51.16788,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Aramy Silva,Municipal,Cristal,-30.09803,-51.2417,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Decio Martins Costa,Municipal,Parque Santa Fé,-30.01211,-51.10067,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Dolores Alcaraz Caldas,Municipal,Restinga,-30.15158,-51.13787,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Jose Loureiro Da Silva,Municipal,Cristal,-30.08232,-51.23251,False,False,False,False,False,False,False,False,False,False,False,False
+Emeb Dr Liberato Salzano Vieira Da Cunha,Municipal,Sarandi,-29.99532,-51.13338,False,False,False,False,False,False,True,True,True,True,True,True
+Emef Nossa Senhora De Fatima,Municipal,Bom Jesus,-30.04678,-51.15842,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Pepita De Leao,Municipal,Passo das Pedras,-30.01549,-51.12788,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Presidente Vargas,Municipal,Passo das Pedras,-30.01662,-51.12758,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Heitor Villa Lobos,Municipal,Lomba do Pinheiro,-30.09662,-51.13273,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Professora Luiza Teixeira Lauffer,Estadual,Rubem Berta,-30.01447,-51.09622,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Normal 1 De Maio,Estadual,Navegantes,-30.00099,-51.20106,False,False,False,True,True,True,True,True,True,True,True,True
+Inst Estadual Dom Diogo De Souza,Estadual,Cristo Redentor,-30.01249,-51.15527,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Adventista De Ensino Fundamental Do Sarandi,Privada,Sarandi,-29.99146,-51.13296,False,False,False,False,False,False,False,False,True,True,True,True
+Col Adventista Marechal Rondon,Privada,Vila Ipiranga,-30.01315,-51.14875,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Sinodal Do Salvador,Privada,Vila Ipiranga,-30.01367,-51.14688,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Tecnica Est Parobe,Estadual,Praia de Belas,-30.03758,-51.23147,True,True,True,True,True,True,True,True,True,True,True,True
+Esc Tecnica Est Senador Ernesto Dornelles,Estadual,Centro Histórico,-30.03469,-51.23766,False,False,False,False,False,False,False,False,False,False,False,False
+Ifrs - Campus Porto Alegre,Federal,Centro Histórico,-30.02638,-51.22141,False,False,False,True,True,True,True,True,True,True,True,True
+Col Santa Doroteia,Privada,Vila Ipiranga,-30.01472,-51.14904,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Professora Marina Martins De Souza,Estadual,Partenon,-30.07,-51.156,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Acorianos,Estadual,Vila Jardim,-30.0345,-51.15732,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Agronomo Pedro Pereira,Estadual,Agronomia,-30.07483,-51.13434,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Alberto Torres,Estadual,Vila Nova,-30.11576,-51.21015,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Alceu Wamosy,Estadual,Camaquã,-30.11127,-51.23483,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Almirante Barroso,Estadual,Arquipélago,-30.01414,-51.25968,True,True,True,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun America,Estadual,Passo das Pedras,-30.0154,-51.12168,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Ana Neri,Estadual,São Sebastião,-30.00297,-51.14277,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Anne Frank,Estadual,Bom Fim,-30.03172,-51.21344,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Antao De Faria,Estadual,Bom Jesus,-30.04387,-51.1523,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ed Bas Apeles Porto Alegre,Estadual,Partenon,-30.05092,-51.20053,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Araguaia,Estadual,Hípica,-30.15388,-51.18282,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Araujo Porto Alegre,Estadual,Sarandi,-29.98629,-51.12542,False,False,False,False,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Araujo Viana,Estadual,Vila São José,-30.06699,-51.16161,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Baependi,Estadual,Glória,-30.0844,-51.19923,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Bahia,Estadual,Boa Vista,-30.02433,-51.17517,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Padre Balduino Rambo,Estadual,Santo Antônio,-30.05921,-51.19579,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Margarida Coelho De Souza,Estadual,Boa Vista do Sul,-30.21184,-51.13441,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Professora Branca Diva Pereira De Souza,Estadual,São Geraldo,-30.01035,-51.2057,False,False,False,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Brasilia,Estadual,São João,-30.00055,-51.19089,False,False,False,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Brigadeiro Francisco De Lima E Silva,Estadual,Vila Ipiranga,-30.01661,-51.14878,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Brigadeiro Silva Paes,Estadual,Teresópolis,-30.0746,-51.21331,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Camila Furtado Alves,Estadual,Floresta,-30.01482,-51.21146,False,True,True,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Candido Portinari,Estadual,Menino Deus,-30.04681,-51.2237,False,False,False,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Dr Carlos Barbosa Goncalves,Estadual,Humaitá,-29.99376,-51.1982,True,True,True,True,True,True,True,True,True,True,True,True
+Col Estadual Carlos Fagundes De Mello,Estadual,Farrapos,-29.98028,-51.19275,True,True,True,True,True,True,True,True,True,True,True,True
+Esc Est Ens Med Ceara,Estadual,Teresópolis,-30.07946,-51.20816,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Prudente De Morais,Estadual,Chácara das Pedras,-30.03385,-51.16409,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Clotilde Cachapuz De Medeiros,Estadual,Espírito Santo,-30.14639,-51.22074,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Coelho Neto,Estadual,Bom Jesus,-30.04419,-51.16363,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Coronel Tito Marques Fernandes,Estadual,Santa Tereza,-30.06664,-51.22189,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Custodio De Mello,Estadual,Serraria,-30.16444,-51.22821,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Dom Pedro I,Estadual,Glória,-30.07432,-51.1991,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Almirante Alvaro Alberto Da Motta E Silva,Estadual,Santa Tereza,-30.08045,-51.22536,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Desiderio Torquato Finamor,Estadual,Partenon,-30.06095,-51.17197,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ed Bas Dolores Alcaraz Caldas,Estadual,Passo D'Areia,-30.01881,-51.1614,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Imperatriz Leopoldina,Estadual,Petrópolis,-30.03662,-51.18347,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Dona Luiza Freitas Vale Aranha,Estadual,Belém Velho,-30.12056,-51.17662,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Rafaela Remiao,Estadual,Lomba do Pinheiro,-30.09802,-51.12649,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Dr Emilio Kemp,Estadual,Partenon,-30.05232,-51.19482,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Dr Ferreira De Abreu,Estadual,Sarandi,-29.9986,-51.12758,False,False,False,False,False,False,False,False,False,False,True,False
+Esc Est Ens Fun Dr Jose Loureiro Da Silva,Estadual,Ponta Grossa,-30.18541,-51.20935,False,False,False,False,False,False,False,True,True,True,True,False
+Esc Est Ens Fun Dr Martins Costa Junior,Estadual,Vila São José,-30.07405,-51.16904,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Dr Oscar Tollens,Estadual,Vila São José,-30.06606,-51.16755,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Dr Pacheco Prates,Estadual,Belém Velho,-30.1166,-51.17917,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Dr Victor De Britto,Estadual,Nonoai,-30.08991,-51.21467,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Eng Rodolfo Ahrons,Estadual,Rubem Berta,-30.01538,-51.09996,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Espirito Santo,Estadual,Glória,-30.07805,-51.19195,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Euclides Da Cunha,Estadual,Menino Deus,-30.06336,-51.2274,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Evarista Flores Da Cunha,Estadual,Belém Novo,-30.21193,-51.18342,False,False,False,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Fabiola Pinto Dornelles,Estadual,Higienópolis,-30.01946,-51.1796,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Fernando Ferrari,Estadual,Cristal,-30.09179,-51.23769,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ed Bas Fernando Gomes,Estadual,Jardim do Salso,-30.04822,-51.16931,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Oscar Coelho De Souza,Estadual,Lami,-30.22017,-51.09708,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Gabriela Mistral,Estadual,Santo Antônio,-30.05715,-51.20636,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Gen Iba Ilha Moreira,Estadual,Jardim Carvalho,-30.05372,-51.14999,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun General Daltro Filho,Estadual,Auxiliadora,-30.01867,-51.19647,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Professor Oscar Pereira,Estadual,Cascata,-30.09066,-51.18072,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ed Bas Gomes Carneiro,Estadual,Vila Ipiranga,-30.02262,-51.15333,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Dr Gustavo Armbrust,Estadual,Jardim Itu,-30.01039,-51.14051,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Ildefonso Gomes,Estadual,Santana,-30.04575,-51.21253,False,False,False,False,False,False,False,False,True,True,True,False
+Esc Est Ens Med Italia,Estadual,Jardim Itu,-30.01966,-51.142,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Japao,Estadual,Jardim Sabará,-30.03176,-51.14194,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Jeronimo De Albuquerque,Estadual,Vila João Pessoa,-30.06771,-51.17393,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Jeronimo De Ornelas,Estadual,Glória,-30.07479,-51.1913,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Professor Julio Grau,Estadual,Santa Maria Goretti,-30.00438,-51.18124,False,False,False,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Prof Edgar Luiz Schneider,Estadual,Partenon,-30.06301,-51.15938,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Dr Herophilo Carvalho De Azambuja,Estadual,Jardim Carvalho,-30.05513,-51.14995,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Professora Leopolda Barnewitz,Estadual,Cidade Baixa,-30.04068,-51.22586,False,False,False,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Professor Leopoldo Tietbohl,Estadual,Petrópolis,-30.04733,-51.1886,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Luciana De Abreu,Estadual,Santana,-30.04097,-51.2119,False,False,False,False,False,False,False,False,False,True,True,False
+Esc Est Ens Fun Luiz Gama,Estadual,Belém Velho,-30.1125,-51.15335,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Machado De Assis,Estadual,Nonoai,-30.092,-51.23079,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Madre Maria Selima,Estadual,Vila João Pessoa,-30.07181,-51.17807,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Major Miguel Jose Pereira,Estadual,Sarandi,-29.98598,-51.12778,False,False,False,False,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Maria Jose Mabilde,Estadual,Arquipélago,-30.02895,-51.25261,True,True,True,True,True,True,True,True,True,True,True,True
+Esc Est Ens Med Mariz E Barros,Estadual,Mário Quintana,-30.03582,-51.10683,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Matias De Albuquerque,Estadual,Aberta dos Morros,-30.15437,-51.19983,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Medianeira,Estadual,Medianeira,-30.06416,-51.21066,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ed Bas Monsenhor Leopoldo Hoff,Estadual,Chácara das Pedras,-30.03823,-51.16359,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Monsenhor Roberto Landell De Moura,Estadual,Tristeza,-30.10794,-51.24946,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Monte Libano,Estadual,Ipanema,-30.12988,-51.22735,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Professora Maria Thereza Da Silveira,Estadual,Bela Vista,-30.02847,-51.1828,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Nehyta Martins Ramos,Estadual,Belém Novo,-30.21123,-51.16954,False,False,False,False,False,False,False,False,False,True,True,False
+Esc Est Ens Fun Professora Aurora Peixoto De Azevedo,Estadual,Sarandi,-29.98749,-51.13644,True,True,True,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Olegario Mariano,Estadual,Floresta,-30.01503,-51.20134,False,False,False,False,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Osorio Duque Estrada,Estadual,Tristeza,-30.10149,-51.24529,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Otavio Mangabeira,Estadual,Camaquã,-30.10436,-51.23346,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Othelo Rosa,Estadual,Independência,-30.02931,-51.21037,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Padre Leo,Estadual,Rubem Berta,-30.01412,-51.09662,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Maria Cristina Chika,Estadual,Lomba do Pinheiro,-30.12474,-51.1043,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Paraiba Ciep,Estadual,Ipanema,-30.13825,-51.21568,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Parana,Estadual,Cristal,-30.078,-51.24217,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Vicente Da Fontoura,Estadual,Lageado,-30.17661,-51.14472,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Paulina Moresco,Estadual,Campo Novo,-30.13357,-51.19804,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Pedro Americo,Estadual,Chapéu do Sol,-30.18311,-51.16323,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Pedro Sirangelo,Estadual,Cavalhada,-30.10654,-51.22427,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Piaui,Estadual,Nonoai,-30.08824,-51.22351,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Porto Alegre,Estadual,Morro Santana,-30.03789,-51.12552,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Simoes Lopes Neto,Estadual,Teresópolis,-30.08544,-51.20798,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Genoveva Da Costa Bernardes,Estadual,Lami,-30.24108,-51.08015,False,False,False,False,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Professor Afonso Guerreiro Lima,Estadual,Santa Tereza,-30.07187,-51.22134,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Professor Alcides Cunha,Estadual,Morro Santana,-30.03896,-51.12339,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Aurelio Reis,Estadual,Jardim Floresta,-30.00283,-51.15659,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Prof Carlos Rodrigues Da Silva,Estadual,Santa Maria Goretti,-30.00511,-51.17367,False,False,False,False,True,True,True,True,True,True,True,False
+Esc Est Ens Fun Professor Ivo Corseuil,Estadual,Petrópolis,-30.04279,-51.17687,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Professor Sarmento Leite,Estadual,Cristo Redentor,-30.00597,-51.16242,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Professora Violeta Magalhaes,Estadual,Cavalhada,-30.11093,-51.23243,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Professores Langendonck,Estadual,Guarujá,-30.15579,-51.22038,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Rafael Pinto Bandeira,Estadual,Cristal,-30.09593,-51.24316,False,False,False,False,False,False,False,False,True,True,True,False
+Esc Est Ens Fun Rio De Janeiro,Estadual,Cidade Baixa,-30.03681,-51.2227,False,False,False,False,False,False,False,True,True,True,True,False
+Esc Est Ens Med Roque Gonzales,Estadual,Cavalhada,-30.09793,-51.23222,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun William Richard Schisler,Estadual,Menino Deus,-30.05359,-51.21874,False,False,False,False,False,False,True,True,True,True,True,False
+Esc Est Ens Fun Santa Rita De Cassia,Estadual,Santa Tereza,-30.0745,-51.23029,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Santa Rosa,Estadual,Santa Rosa de Lima,-29.99646,-51.10037,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Tenente Coronel Travassos Alves,Estadual,Coronel Aparício Borges,-30.07814,-51.1701,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Uruguai,Estadual,Moinhos de Vento,-30.02791,-51.19885,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Vera Cruz,Estadual,Glória,-30.07359,-51.20397,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Aldo Locatelli,Estadual,Jardim Carvalho,-30.04887,-51.14605,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Danilo Antonio Zaffari,Estadual,Farrapos,-29.9858,-51.19507,True,True,True,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Itamarati,Estadual,Sarandi,-30.00711,-51.1296,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Jose Do Patrocinio,Estadual,Restinga,-30.15785,-51.13998,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Santa Luzia,Estadual,Santo Antônio,-30.06239,-51.2013,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Visconde De Pelotas,Estadual,Mont'Serrat,-30.02511,-51.18854,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Visconde Do Rio Grande,Estadual,Cavalhada,-30.10233,-51.22894,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Marista Assuncao,Privada,Glória,-30.07521,-51.20276,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Salesiano Dom Bosco,Privada,Higienópolis,-30.01191,-51.18014,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Vicentino Santa Cecilia,Privada,Santa Cecília,-30.04304,-51.1971,False,False,False,False,False,False,False,False,False,False,False,False
+Esc De Educ Basica Don Luis Guanella,Privada,Vila Ipiranga,-30.02389,-51.1464,False,False,False,False,False,False,False,False,False,False,False,False
+Esc De Ensino Fundamental Mae Admiravel,Privada,Cidade Baixa,-30.04229,-51.22658,True,True,True,True,True,True,True,True,True,True,True,True
+Colegio Mae De Deus,Privada,Tristeza,-30.11222,-51.24826,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Fundamental Sao Francisco Menino Deus,Privada,Menino Deus,-30.06148,-51.22352,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Romano Santa Marta,Privada,Azenha,-30.05019,-51.21737,False,False,False,True,True,True,True,True,True,True,True,False
+Esc De Ens Fund La Salle Pao Dos Pobres,Privada,Cidade Baixa,-30.04063,-51.22693,False,False,False,True,True,True,True,True,True,True,True,True
+Instituto Sao Francisco Santa Familia,Privada,São Geraldo,-30.00939,-51.19943,False,False,False,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Decio Martins Costa,Estadual,Sarandi,-29.98212,-51.13466,True,True,True,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Sao Francisco De Assis,Estadual,Santana,-30.04408,-51.20119,False,False,False,False,False,False,False,False,True,True,True,False
+Centro De Ensino Medio Pastor Dohms-Unidade De Ensino Higienopolis,Privada,São João,-30.01213,-51.18677,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Gov Ildo Meneghetti,Municipal,Santa Rosa de Lima,-29.99352,-51.10533,False,False,False,False,False,False,False,False,False,False,False,False
+Col Metodista Americano,Privada,Rio Branco,-30.03629,-51.20051,False,False,False,False,False,False,False,False,False,False,False,False
+Instituto Santa Luzia,Privada,Cavalhada,-30.112,-51.22794,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Luterano Da Paz,Privada,Sarandi,-29.99585,-51.12572,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Joao Xxiii,Privada,Santa Tereza,-30.07623,-51.21484,False,False,False,False,False,False,False,False,False,False,False,False
+Inst Est Educ General Flores Da Cunha,Estadual,Farroupilha,-30.03319,-51.21719,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Tec Jose Cesar De Mesquita,Privada,Cristo Redentor,-30.01179,-51.15361,False,False,False,False,False,False,False,False,False,False,False,False
+Col Kennedy,Privada,Sarandi,-29.9955,-51.12594,False,False,False,False,False,False,False,False,False,False,False,False
+Instituto Sao Francisco Pallotti,Privada,Passo D'Areia,-30.0102,-51.16915,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Meu Cantinho,Privada,Teresópolis,-30.08583,-51.20717,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Jp Cantinho Amigo,Municipal,Azenha,-30.04443,-51.21942,False,False,False,True,True,True,True,True,True,True,True,True
+Emei Jp Cirandinha,Municipal,Moinhos de Vento,-30.02774,-51.20518,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Jp Girafinha,Municipal,Santana,-30.05206,-51.2051,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Jp Meu Amiguinho,Municipal,Floresta,-30.02091,-51.21044,False,False,False,False,True,True,True,True,True,True,True,True
+Emei Jp Passarinho Dourado,Municipal,São Geraldo,-30.01148,-51.19604,False,False,False,True,True,True,True,True,True,True,True,True
+Emei Jp Pica-Pau Amarelo,Municipal,Centro Histórico,-30.03479,-51.2367,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Infantil Gato De Botas E Pequeno Polegar,Privada,Jardim Itu,-30.01094,-51.13591,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Adventista Do Partenon,Privada,Vila João Pessoa,-30.06653,-51.17567,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Oswaldo Vergara,Estadual,Farrapos,-29.97939,-51.19499,True,True,True,True,True,True,True,True,True,True,True,True
+Emef Sen Alberto Pasqualini,Municipal,Restinga,-30.15314,-51.14305,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Senador Pasqualini,Estadual,Santa Tereza,-30.07112,-51.23818,False,False,False,False,False,False,False,False,False,False,False,False
+Instituto De Educacao Sao Francisco,Privada,Rubem Berta,-30.01256,-51.0974,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Tres De Outubro,Estadual,Tristeza,-30.11093,-51.25397,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Coronel Aparicio Borges,Estadual,Partenon,-30.06866,-51.18813,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Souza Lobo,Estadual,São Geraldo,-30.01063,-51.19985,False,False,False,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Professor Sylvio Torres,Estadual,Lomba do Pinheiro,-30.0814,-51.116,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Ensino Fundamental Sao Francisco - Zona Sul,Privada,Camaquã,-30.10778,-51.24155,False,False,False,False,False,False,False,False,False,False,False,False
+C Est De En Med Raul Pilla,Estadual,Restinga,-30.1482,-51.14543,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Republica Argentina,Estadual,Jardim Lindóia,-30.0027,-51.14859,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Inacio Montanha,Estadual,Azenha,-30.04802,-51.21115,False,False,False,False,False,False,False,False,False,False,True,False
+Col Estadual Marechal Floriano Peixoto,Estadual,Floresta,-30.02452,-51.21334,False,False,False,False,True,True,True,True,True,True,True,True
+Col Estadual Piratini,Estadual,Auxiliadora,-30.02423,-51.19166,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Presidente Arthur Da Costa E Silva,Estadual,Sarandi,-29.99945,-51.13759,False,False,False,False,False,False,False,False,False,False,False,False
+Inst Estadual Rio Branco,Estadual,Santa Cecília,-30.04018,-51.19858,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Santos Dumont,Estadual,Vila Assunção,-30.10203,-51.26028,False,False,False,False,False,False,False,False,False,False,False,False
+Inst Est Educ Paulo Da Gama,Estadual,Coronel Aparício Borges,-30.06943,-51.1849,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Odila Gay Da Fonseca,Estadual,Ipanema,-30.13692,-51.22492,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Dr Glicerio Alves,Estadual,Belém Novo,-30.20959,-51.17679,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Florinda Tubino Sampaio,Estadual,Petrópolis,-30.04059,-51.18141,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Acm Centro,Privada,Centro Histórico,-30.03743,-51.22969,False,False,False,True,True,True,True,True,True,True,True,True
+Bercario Creche E Recreacao Cisne Branco Ltda,Privada,Menino Deus,-30.06082,-51.22435,False,False,False,False,False,False,False,False,False,False,False,False
+Col Marista Nossa Senhora Do Rosario,Privada,Praia de Belas,-30.0492,-51.22892,False,False,True,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Professor Olintho De Oliveira,Estadual,Cidade Baixa,-30.03993,-51.22559,False,False,False,True,True,True,True,True,True,True,True,True
+Col Estadual Ruben Berta,Estadual,Vila Jardim,-30.02977,-51.1515,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Francisco A Vieira Caldas Jr,Estadual,Partenon,-30.05826,-51.15919,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Cidade Jardim,Estadual,Nonoai,-30.09432,-51.22197,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Paula Soares,Estadual,Centro Histórico,-30.03417,-51.2314,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Lions Club Poa Farrapos,Estadual,Humaitá,-29.99334,-51.19256,False,False,False,True,True,True,True,True,True,True,True,True
+Creche E Bercario Giordano Bruno,Privada,Petrópolis,-30.03388,-51.18095,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Gente Miuda,Privada,Moinhos de Vento,-30.02799,-51.1969,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Helena Litwin Schneider,Estadual,Passo das Pedras,-30.02739,-51.1319,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Baltazar De Oliveira Garcia,Estadual,Jardim Leopoldina,-30.01821,-51.11036,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Lidia Moschetti,Estadual,Costa e Silva,-30.0079,-51.12017,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Ministro Poty Medeiros,Estadual,Rubem Berta,-30.00791,-51.09573,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Poncho Verde,Estadual,Costa e Silva,-30.00448,-51.11028,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Jp Patinho Feio,Municipal,Navegantes,-30.00508,-51.20149,False,False,True,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Professora Marieta Da Cunha Silva,Estadual,Morro Santana,-30.04011,-51.13477,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Provincia De Sao Pedro,Privada,Boa Vista,-30.02495,-51.17298,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Ed Infantil Tartaruguinha Verde,Privada,Menino Deus,-30.05612,-51.22531,False,False,False,False,True,True,True,True,True,True,True,False
+Esc Est Ens Fun Vinte De Setembro,Estadual,Santa Rosa de Lima,-29.99715,-51.09129,False,False,False,False,False,False,False,False,True,True,True,False
+Col Estadual Professor Otavio De Souza,Estadual,Jardim Botânico,-30.05282,-51.18626,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Bento Goncalves,Estadual,Santa Rosa de Lima,-30.00142,-51.10189,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Patotinha,Privada,Jardim Lindóia,-30.00848,-51.15013,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun David Canabarro,Estadual,Jardim Leopoldina,-30.01707,-51.1168,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Pres Joao Belchior Marques Goulart,Municipal,Sarandi,-29.97921,-51.12592,True,True,True,True,True,True,True,True,True,True,True,True
+Emef Grande Oriente Do Rgs,Municipal,Rubem Berta,-30.02457,-51.10349,False,False,False,False,False,False,False,False,False,False,False,False
+5191 Iei Casa Da Crianca N Sra Auxiliadora,Privada,Auxiliadora,-30.02318,-51.19506,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Pe De Feijao,Privada,Petrópolis,-30.04064,-51.18584,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Elpidio Ferreira Paes,Estadual,Cristal,-30.08784,-51.23782,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Conego Paulo De Nadal,Estadual,Cavalhada,-30.11489,-51.22702,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Onofre Pires,Estadual,Lomba do Pinheiro,-30.0847,-51.13521,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Coronel Afonso Emilio Massot,Estadual,Azenha,-30.04639,-51.21673,False,False,True,True,True,True,True,True,True,True,True,True
+Col Estadual General Alvaro Alves Da Silva Braga,Estadual,Medianeira,-30.06306,-51.21745,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Otavio Rocha,Estadual,Partenon,-30.06337,-51.19332,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ed Bas Presidente Roosevelt,Estadual,Menino Deus,-30.05398,-51.22645,False,True,True,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Paul Harris,Estadual,Santa Tereza,-30.08436,-51.22966,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Professora Thereza Noronha Carvalho,Estadual,Lomba do Pinheiro,-30.11542,-51.11465,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Anita Garibaldi,Estadual,Belém Velho,-30.10402,-51.1709,False,False,False,False,False,False,False,False,False,False,False,False
+Eef La Salle Esmeralda,Privada,Lomba do Pinheiro,-30.08963,-51.12541,False,False,False,False,False,False,False,False,False,False,False,False
+5048 Iei Heloisa Becker,Privada,Santana,-30.05,-51.20062,False,False,False,False,False,False,False,False,False,False,False,False
+Assoc Benefic Santa Zita De Lucca,Privada,Partenon,-30.06628,-51.19248,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Tio Chico,Estadual,Coronel Aparício Borges,-30.06908,-51.18453,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Presidente Costa E Silva,Estadual,Medianeira,-30.0692,-51.20832,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Infantil Meladinho,Privada,Menino Deus,-30.05763,-51.22091,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Piazito,Privada,Menino Deus,-30.0564,-51.22819,True,True,True,True,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Luiz De Azambuja Soares,Estadual,Vila São José,-30.06647,-51.16348,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Padre Rambo,Estadual,Santo Antônio,-30.05716,-51.19684,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Mauricio Sirotsky Sobrinho,Estadual,Partenon,-30.05763,-51.19272,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Tagarela,Privada,Azenha,-30.05666,-51.21688,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Prof Judith Macedo De Araujo,Municipal,Vila São José,-30.076,-51.1628,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Leocadia Felizardo Prestes,Municipal,Cavalhada,-30.12937,-51.21633,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Prof Gilberto Jorge Goncalves Da Silva,Municipal,Ipanema,-30.13705,-51.21117,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Ver Carlos Pessoa De Brum,Municipal,Restinga,-30.15661,-51.13599,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Prof Larry Jose Ribeiro Alves,Municipal,Restinga,-30.15094,-51.14414,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Ver Martim Aranha,Municipal,Santa Tereza,-30.08548,-51.22813,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Vila Cruzeiro Do Sul,Estadual,Santa Tereza,-30.08163,-51.23152,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Dep Marcirio Goulart Loureiro,Municipal,Coronel Aparício Borges,-30.07657,-51.17339,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Panamericana Educ Basica,Privada,Petrópolis,-30.03601,-51.18253,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Lidovino Fanton,Municipal,Restinga,-30.16141,-51.1436,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Murialdo,Privada,Vila São José,-30.06529,-51.16832,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Jose Garibaldi,Estadual,Humaitá,-29.98,-51.18791,False,False,False,True,True,True,True,True,True,True,True,True
+Col Estadual Prof Elmano Lauffer Leal,Estadual,Jardim Itu,-30.01186,-51.13146,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Prof Ana Iris Do Amaral,Municipal,Morro Santana,-30.03173,-51.12531,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Lauro Rodrigues,Municipal,Passo das Pedras,-30.01784,-51.12343,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Joao Antonio Satte,Municipal,Rubem Berta,-30.00013,-51.0929,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Dep Victor Issler,Municipal,Mário Quintana,-30.03558,-51.11629,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Gabriel Obino,Municipal,Teresópolis,-30.08414,-51.20033,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Na Vila Jardim Renascenca,Estadual,Cascata,-30.09812,-51.19044,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Jardim Vila Nova,Estadual,Vila Nova,-30.127,-51.2091,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Ministro Salgado Filho,Estadual,Morro Santana,-30.04762,-51.13573,False,False,False,False,False,False,False,False,False,False,False,False
+Eef Amigos Do Verde,Privada,Higienópolis,-30.01743,-51.1854,False,False,False,False,False,False,False,False,False,False,False,False
+Centro De Ensino Medio Pastor Dohms- Unidade De Ensino Zona Sul,Privada,Teresópolis,-30.08148,-51.2058,False,False,False,False,False,False,False,False,False,False,False,False
+Col Monteiro Lobato - Esc Educ Basica,Privada,Boa Vista,-30.02491,-51.1738,False,False,False,False,False,False,False,False,False,False,False,False
+Centro De Ensino Fundamental Projeto,Privada,Rio Branco,-30.03775,-51.20307,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Santo Expedito,Municipal,Parque Santa Fé,-30.00747,-51.1003,False,False,False,False,False,False,False,False,False,False,False,False
+5244 Eei Nossa Senhora Das Gracas,Privada,Extrema,-30.22458,-51.0695,False,False,False,False,False,False,False,False,False,False,False,False
+5234 Eei Jardim De Oxum,Privada,Restinga,-30.16464,-51.13912,False,False,False,False,False,False,False,False,False,False,False,False
+5242 Ecei Lavinia Perez,Privada,Passo D'Areia,-30.01574,-51.16908,False,False,False,False,False,False,False,False,False,False,False,False
+5245 Eei Eni Medeiros,Privada,Jardim Carvalho,-30.05969,-51.1491,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Saint Hilaire,Municipal,Lomba do Pinheiro,-30.12366,-51.09807,False,False,False,False,False,False,False,False,False,False,False,False
+Nucl E Eja E Cp Menino Deus,Estadual,Menino Deus,-30.04657,-51.22144,True,True,True,True,True,True,True,True,True,True,True,True
+Nucl E Eja E Cp Paulo Freire,Estadual,Auxiliadora,-30.02013,-51.19661,False,False,False,False,False,False,False,False,False,False,False,False
+Nucl E Eja E Cp Desembargador Alaor Antonio Terra,Estadual,Coronel Aparício Borges,-30.07106,-51.18285,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Jose Mariano Beck,Municipal,Bom Jesus,-30.04826,-51.15556,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Julio Brunelli,Estadual,Rubem Berta,-30.01919,-51.10487,False,False,False,False,False,False,False,False,False,False,False,False
+Esc De Ens Fund Constructor,Privada,Cristo Redentor,-30.01593,-51.15395,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Ensino Medio Vinicius De Morais,Privada,Restinga,-30.14891,-51.14225,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Leonardo Da Vinci-Alfa,Privada,Rio Branco,-30.03422,-51.20292,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Leonardo Da Vinci- Beta,Privada,Cristal,-30.09512,-51.24574,False,False,False,False,True,True,True,True,True,True,True,False
+Emef Jean Piaget,Municipal,Rubem Berta,-30.00477,-51.09538,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Ver Antonio Giudice,Municipal,Humaitá,-29.98034,-51.18579,False,False,False,True,True,True,True,True,True,True,True,True
+Emef Prof Anisio Teixeira,Municipal,Aberta dos Morros,-30.15979,-51.20037,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Mane Garrincha Ciep Esportivo,Estadual,Azenha,-30.05606,-51.21747,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Cristovao Colombo,Estadual,Sarandi,-29.9832,-51.13164,False,False,False,True,True,True,True,True,True,True,True,True
+Esc De Ens Fund Prof Ana Maria Monteggia,Privada,Vila Nova,-30.12082,-51.21264,False,False,False,False,False,False,False,False,False,False,False,False
+Col Joao Paulo I - Unidade Sul,Privada,Jardim Isabel,-30.12594,-51.23891,False,False,False,False,False,False,False,False,False,False,False,False
+Col Conhecer,Privada,Santa Tereza,-30.07106,-51.22832,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Protasio Alves,Municipal,Jardim Sabará,-30.0397,-51.14438,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Padre Angelo Costa,Municipal,Vila São José,-30.06611,-51.16752,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Jardim Camaqua,Municipal,Camaquã,-30.11147,-51.23548,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Da Vila Mapa Ii,Municipal,Lomba do Pinheiro,-30.09624,-51.13468,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Da Vila Nova Sao Carlos,Municipal,Lomba do Pinheiro,-30.11056,-51.11073,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Parque Dos Maias Ii,Municipal,Rubem Berta,-30.00425,-51.0948,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Dos Municiparios Tio Barnabe,Municipal,Azenha,-30.04662,-51.21589,False,True,True,True,True,True,True,True,True,True,True,True
+Emei Dr Walter Silber,Municipal,Vila São José,-30.07082,-51.16999,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Da Vila Tronco,Municipal,Santa Tereza,-30.069,-51.21584,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Da Vila Da Pascoa,Municipal,Santa Rosa de Lima,-29.99318,-51.10555,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Da Vila Nova Restinga,Municipal,Restinga,-30.1488,-51.14531,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Florencia Vurlod Socias,Municipal,Restinga,-30.15294,-51.14426,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Dom Luiz De Nadal,Municipal,Restinga,-30.15046,-51.13962,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Vila Nova,Municipal,Vila Nova,-30.12641,-51.20962,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Maria Marques Fernandes,Municipal,Lomba do Pinheiro,-30.0971,-51.134,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Da Vila Floresta,Municipal,Jardim Floresta,-30.00336,-51.15639,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Da Vila Elizabeth,Municipal,Sarandi,-29.98043,-51.12706,True,True,True,True,True,True,True,True,True,True,True,True
+Emei Vale Verde,Municipal,Jardim Sabará,-30.04053,-51.14376,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Prof Maria Helena Cavalheiro Gusmao,Municipal,Vila Nova,-30.12491,-51.21941,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Da Vila Max Geiss,Municipal,Rubem Berta,-30.00805,-51.0965,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Do Jardim Salomoni,Municipal,Vila Nova,-30.11657,-51.22024,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Jardim Bento Goncalves,Municipal,Partenon,-30.06928,-51.15537,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Erico Verissimo,Municipal,Passo das Pedras,-30.01478,-51.12767,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Bairro Cavalhada,Municipal,Cavalhada,-30.09953,-51.22937,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Campos Do Cristal,Municipal,Vila Nova,-30.11931,-51.20054,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Wenceslau Fontoura,Municipal,Mário Quintana,-30.02616,-51.09931,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Espec Recanto Da Alegria,Estadual,Passo D'Areia,-30.01524,-51.17698,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Espec Cristo Redentor,Estadual,Cristo Redentor,-30.01224,-51.15239,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Espec Renascenca,Estadual,Azenha,-30.04728,-51.21479,False,False,False,False,True,True,True,True,True,True,True,False
+Esc De Ens Fund Desenvolver,Privada,Camaquã,-30.10819,-51.23714,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Vila Monte Cristo,Municipal,Vila Nova,-30.12227,-51.21801,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Ponta Grossa,Municipal,Ponta Grossa,-30.18504,-51.21026,False,False,False,True,True,True,True,True,True,True,True,False
+Emei Humaita,Municipal,Humaitá,-29.98044,-51.18541,False,False,False,True,True,True,True,True,True,True,True,True
+Emei Da Vila Santa Rosa,Municipal,Santa Rosa de Lima,-29.99629,-51.10676,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Ilha Da Pintada,Municipal,Arquipélago,-30.01673,-51.2605,True,True,True,True,True,True,True,True,True,True,True,True
+Escola De Ensino Medio Universitario - Porto Alegre,Privada,Centro Histórico,-30.03378,-51.22698,False,False,False,False,False,False,False,False,False,False,False,False
+Centro De Formacao Profissional Senai Visconde De Maua,Privada,Navegantes,-30.0003,-51.20094,False,False,False,True,True,True,True,True,True,True,True,True
+Cmet Paulo Freire,Municipal,Santana,-30.04203,-51.20996,False,False,False,False,True,True,True,True,True,True,True,False
+Emef Migrantes,Municipal,Anchieta,-29.98693,-51.15784,True,True,True,True,True,True,True,True,True,True,True,True
+Emei Da Vila Valneri Antunes,Municipal,Mário Quintana,-30.03073,-51.11163,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Morro Da Cruz,Municipal,Vila São José,-30.07782,-51.1608,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Neusa Goulart Brizola,Municipal,Cavalhada,-30.11717,-51.22837,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Porto Alegre,Municipal,Centro Histórico,-30.03623,-51.23935,False,False,False,False,True,True,True,True,True,True,True,True
+Emef Chico Mendes,Municipal,Mário Quintana,-30.03162,-51.11249,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Tecnica Factum,Privada,Centro Histórico,-30.03191,-51.2295,False,False,False,False,False,False,False,False,False,False,False,False
+Faculdade De Tecnologia Alcides Maya,Privada,Centro Histórico,-30.03074,-51.22468,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Tecnica Cristo Redentor,Privada,Passo D'Areia,-30.01133,-51.17178,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Marista Ipanema,Privada,Pedra Redonda,-30.1305,-51.23943,False,False,False,False,False,True,True,True,True,True,True,False
+Emeef Prof Lygia Morrone Averbuck,Municipal,Jardim do Salso,-30.05418,-51.1664,False,False,False,False,False,False,False,False,False,False,False,False
+Emeef Prof Elyseu Paglioli,Municipal,Cristal,-30.08684,-51.23816,False,False,False,False,False,False,False,False,False,False,False,False
+Emeef Prof Luiz Francisco Lucena Borges,Municipal,Jardim Sabará,-30.03403,-51.1458,False,False,False,False,False,False,False,False,False,False,False,False
+Emeef Tristao Sucupira Vianna,Municipal,Restinga,-30.15014,-51.14595,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Esp Educandario Sao Joao Batista,Privada,Ipanema,-30.12894,-51.23049,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Especial Para Surdos Frei Pacifico,Privada,Santo Antônio,-30.05846,-51.20162,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Especial Do Centro De Reabilitacao De Porto Alegre - Cerepal,Privada,Passo D'Areia,-30.00994,-51.17981,False,False,False,False,False,False,False,False,False,False,False,False
+Unidade Nazareth Apae Poa,Privada,Glória,-30.07646,-51.19285,False,False,False,False,False,False,False,False,False,False,False,False
+Unidade Dr Joao Alfredo De Azevedo Apae De Porto Alegre,Privada,Vila Nova,-30.11891,-51.20707,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Para Surdos Prof Lilia Mazeron,Estadual,Santa Maria Goretti,-30.00627,-51.17802,False,False,False,False,True,True,True,True,True,True,True,True
+Emei Osmar Dos Santos Freitas,Municipal,Santa Tereza,-30.08184,-51.22635,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Neo-Humanista De Ens Fund Ananda Marga,Privada,Restinga,-30.15042,-51.14526,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Paulo Freire,Municipal,Restinga,-30.15612,-51.13779,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Mario Quintana,Municipal,Restinga,-30.15362,-51.13193,False,False,False,False,False,False,False,False,False,False,False,False
+5054 Eei Casa Da Crianca Algodao Doce,Privada,Lomba do Pinheiro,-30.11796,-51.09714,False,False,False,False,False,False,False,False,False,False,False,False
+5029 Eei Cantinho Dos Pias,Privada,Jardim Carvalho,-30.04993,-51.14628,False,False,False,False,False,False,False,False,False,False,False,False
+5049 Iei Brincando De Ciranda,Privada,Bom Jesus,-30.04924,-51.15099,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Ribeiro E Pedrozo Ltda,Privada,Cavalhada,-30.09781,-51.23299,False,False,False,False,False,False,False,False,False,False,False,False
+Creche Sao Francisco De Assis,Privada,Cidade Baixa,-30.04081,-51.22151,False,False,False,False,True,True,True,True,True,True,True,False
+Escola De Educacao Infantil Turminha Do Barulho Sc Ltda,Privada,Partenon,-30.05886,-51.15804,False,False,False,False,False,False,False,False,False,False,False,False
+5041 Eei Mensageiros Da Luz,Privada,Petrópolis,-30.03697,-51.18543,False,False,False,False,False,False,False,False,False,False,False,False
+5070 Iei Ceneamm 1 De Maio,Privada,Cascata,-30.09072,-51.17933,False,False,False,False,False,False,False,False,False,False,False,False
+5038 Iei Nossa Senhora De Fatima -Bom Jesus,Privada,Bom Jesus,-30.04957,-51.16004,False,False,False,False,False,False,False,False,False,False,False,False
+5051 Eei Turma Do Barulho,Privada,Lomba do Pinheiro,-30.1228,-51.10274,False,False,False,False,False,False,False,False,False,False,False,False
+5082 Iei Medianeira,Privada,Santa Tereza,-30.07253,-51.22357,False,False,False,False,False,False,False,False,False,False,False,False
+5086 Eei Arapei,Privada,Cristal,-30.08633,-51.2295,False,False,False,False,False,False,False,False,False,False,False,False
+5024 Iei Lar Da Crianca Menino Jesus De Praga,Privada,Rubem Berta,-30.02356,-51.10476,False,False,False,False,False,False,False,False,False,False,False,False
+5069 Iei Creche Lar Da Crianca,Privada,Santa Tereza,-30.06994,-51.22249,False,False,False,False,False,False,False,False,False,False,False,False
+5055 Iei Vovo Ida,Privada,Vila São José,-30.07595,-51.16857,False,False,False,False,False,False,False,False,False,False,False,False
+5203 Eei Amigo Germano,Privada,Santana,-30.04855,-51.20755,False,False,False,False,False,False,False,False,False,False,False,False
+5100 Iei Isabel Vieira,Privada,Aberta dos Morros,-30.15325,-51.20134,False,False,False,False,False,False,False,False,False,False,False,False
+5097 Eei Passo A Passo,Privada,Ipanema,-30.13669,-51.211,False,False,False,False,False,False,False,False,False,False,False,False
+5019 Iei Vovo Cazemiro -Acm Cruzeiro,Privada,Santa Tereza,-30.08448,-51.23015,False,False,False,False,False,False,False,False,False,False,False,False
+5035 Eei Nossa Senhora Aparecida Vila Pinto,Privada,Bom Jesus,-30.05012,-51.15447,False,False,False,False,False,False,False,False,False,False,False,False
+5072 Iei Amavtron,Privada,Santa Tereza,-30.07455,-51.2223,False,False,False,False,False,False,False,False,False,False,False,False
+5182 Eei Creche Navegantes,Privada,São Geraldo,-30.00883,-51.20253,False,False,False,True,True,True,True,True,True,True,True,True
+5003 Eei Estrelinha Do Ceu,Privada,Sarandi,-29.98961,-51.11962,False,False,False,False,False,False,False,True,True,True,True,True
+5053 Iei Balao Magico,Privada,Lomba do Pinheiro,-30.11867,-51.09623,False,False,False,False,False,False,False,False,False,False,False,False
+5027 Iei Girassol,Privada,Rubem Berta,-30.02454,-51.10313,False,False,False,False,False,False,False,False,False,False,False,False
+5037 Iei Aelca,Privada,Vila Jardim,-30.03738,-51.1505,False,False,False,False,False,False,False,False,False,False,False,False
+5021 Eei Galpaozinho,Privada,Santa Rosa de Lima,-30.00023,-51.10726,False,False,False,False,False,False,False,False,False,False,False,False
+5030 Eei Tres Coracoes,Privada,Bom Jesus,-30.04776,-51.16236,False,False,False,False,False,False,False,False,False,False,False,False
+5007 Iei Eugenia Conte,Privada,Santa Rosa de Lima,-29.99434,-51.10579,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Mamae Coruja,Municipal,Santana,-30.05194,-51.20663,False,False,False,False,False,False,False,False,False,False,False,False
+5013 Iei Santa Luiza,Privada,Farrapos,-29.98018,-51.19446,True,True,True,True,True,True,True,True,True,True,True,True
+5061 Iei Vo Belinha,Privada,Lomba do Pinheiro,-30.09726,-51.13605,False,False,False,False,False,False,False,False,False,False,False,False
+5089 Eei Vo Maria,Privada,Nonoai,-30.08651,-51.22736,False,False,False,False,False,False,False,False,False,False,False,False
+5063 Iei Nossa Senhora Aparecida -Vila Pinhal,Privada,Lomba do Pinheiro,-30.12036,-51.10667,False,False,False,False,False,False,False,False,False,False,False,False
+5004 Eei Estrelinha Do Amanha,Privada,Santa Rosa de Lima,-29.99813,-51.09986,False,False,False,False,False,False,False,False,False,False,False,False
+5042 Iei Piu Piu,Privada,Santana,-30.04254,-51.20864,False,False,False,False,True,True,True,True,True,True,True,False
+5017 Eei Negrinho Do Pastoreio,Privada,Rubem Berta,-30.02303,-51.10665,False,False,False,False,False,False,False,False,False,False,False,False
+5108 Eei Padre Pedro Leonardi I,Privada,Restinga,-30.16287,-51.14547,False,False,False,False,False,False,False,False,False,False,False,False
+5020 Eei Madre Teresa,Privada,Rubem Berta,-30.02457,-51.10349,False,False,False,False,False,False,False,False,False,False,False,False
+5026 Iei Crianca Esperanca,Privada,Costa e Silva,-30.00846,-51.12375,False,False,False,False,False,False,False,False,False,False,False,False
+5107 Eei Arco Iris I,Privada,Restinga,-30.15591,-51.13728,False,False,False,False,False,False,False,False,False,False,False,False
+5059 Eei Acomur,Privada,Vila São José,-30.07039,-51.1672,False,False,False,False,False,False,False,False,False,False,False,False
+5056 Eei Paineiras,Privada,Vila João Pessoa,-30.07138,-51.17478,False,False,False,False,False,False,False,False,False,False,False,False
+5062 Iei Estrela Magica,Privada,Lomba do Pinheiro,-30.12197,-51.10858,False,False,False,False,False,False,False,False,False,False,False,False
+5223 Iei Santa Teresinha,Privada,Farroupilha,-30.03763,-51.21049,False,False,False,False,False,False,False,False,False,False,False,False
+5058 Eei Topo Gigio,Privada,Vila São José,-30.07727,-51.16388,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Unificado Independencia,Privada,Centro Histórico,-30.02815,-51.22195,False,False,False,False,False,False,False,False,False,False,False,False
+5066 Eei Meu Nene,Privada,Lomba do Pinheiro,-30.0882,-51.12665,False,False,False,False,False,False,False,False,False,False,False,False
+Filhotinho Centro De Educacao Infantil Ltda,Privada,Parque Santa Fé,-30.01275,-51.10729,False,False,False,False,False,False,False,False,False,False,False,False
+5064 Eei Recreio Da Divisa,Privada,Lomba do Pinheiro,-30.12379,-51.108,False,False,False,False,False,False,False,False,False,False,False,False
+Yk-Espaco Infantil Ltda,Privada,Chácara das Pedras,-30.03322,-51.16478,False,False,False,False,False,False,False,False,False,False,False,False
+Creche Recanto Da Crianca,Privada,Jardim Lindóia,-30.00741,-51.1506,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Bispo Isaac Rodrigues Aco -Cacim,Privada,Bom Jesus,-30.04129,-51.15856,False,False,False,False,False,False,False,False,False,False,False,False
+5034 Iei Alan Bom Jesus,Privada,Bom Jesus,-30.04568,-51.15786,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Favinho De Mel,Privada,Jardim Lindóia,-30.00161,-51.15268,False,False,False,False,False,False,False,False,False,False,False,False
+Creche Circo Da Folia Ltda,Privada,Partenon,-30.05922,-51.15719,False,False,False,False,False,False,False,False,False,False,False,False
+Centro Infantil Ser Crianca Ltda,Privada,Petrópolis,-30.04449,-51.18847,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Caracol Ltda,Privada,Bela Vista,-30.03366,-51.19158,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Chapeu Do Sol,Municipal,Chapéu do Sol,-30.17738,-51.17449,False,False,False,False,False,False,False,False,False,False,True,False
+Lar Da Pequena Crianca,Privada,Morro Santana,-30.04431,-51.13559,False,False,False,False,False,False,False,False,False,False,False,False
+Centro Infantil Recanto Feliz-Ltda,Privada,Auxiliadora,-30.01932,-51.19324,False,False,False,False,False,False,False,False,False,False,False,False
+5044 Eei Casa Do Pequenino,Privada,Azenha,-30.04699,-51.21362,False,False,False,False,True,True,True,True,True,True,True,False
+Escola De Educacao Infantil Cantinho Do Pimpolho,Privada,Restinga,-30.14767,-51.14306,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Rei Arthur,Privada,Cidade Baixa,-30.03989,-51.22355,False,False,False,False,True,True,True,True,True,True,True,True
+Escola De Educacao Infantil Moleque Travesso,Privada,Medianeira,-30.06656,-51.21082,False,False,False,False,False,False,False,False,False,False,False,False
+5065 Iei Arco Iris Encantado,Privada,Lomba do Pinheiro,-30.11052,-51.11208,False,False,False,False,False,False,False,False,False,False,False,False
+5091 Iei Madre Brigida Postorino,Privada,Santa Tereza,-30.07722,-51.22575,False,False,False,False,False,False,False,False,False,False,False,False
+5075 Iei Maria Dolabella Portela,Privada,Santa Tereza,-30.08155,-51.22655,False,False,False,False,False,False,False,False,False,False,False,False
+5016 Iei Osicom I,Privada,Passo das Pedras,-30.01638,-51.12662,False,False,False,False,False,False,False,False,False,False,False,False
+5067 Iei Nossa Senhora Da Gloria,Privada,Glória,-30.07801,-51.1896,False,False,False,False,False,False,False,False,False,False,False,False
+5157 Eei Marista Renascer,Privada,Mário Quintana,-30.02373,-51.09752,False,False,False,False,False,False,False,False,False,False,False,False
+5057 Eei Campo Da Tuca,Privada,Vila João Pessoa,-30.0709,-51.17361,False,False,False,False,False,False,False,False,False,False,False,False
+5028 Eei Sao Vicente De Paulo,Privada,Jardim Itu,-30.02285,-51.13318,False,False,False,False,False,False,False,False,False,False,False,False
+5204 Eei Creche Elsinha,Privada,Medianeira,-30.06819,-51.20677,False,False,False,False,False,False,False,False,False,False,False,False
+Infancias Escola De Educacao Infantil Ltda,Privada,Centro Histórico,-30.03509,-51.23226,False,False,False,False,False,False,False,False,False,False,False,False
+Centro De Educacao Infantil Projeto Vida,Privada,Jardim Lindóia,-30.00714,-51.15063,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Meus Baixinhos,Privada,Camaquã,-30.1087,-51.24168,False,False,False,False,False,False,False,False,False,False,False,False
+Jard D Infancia Lalilu Letrasin Ltda Epp,Privada,São João,-30.0099,-51.1858,False,False,False,False,False,False,False,False,False,False,False,False
+Mundo Do Abc,Privada,Petrópolis,-30.03896,-51.17762,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Corujinha Sapeca Ltda,Privada,Bom Jesus,-30.041,-51.1667,False,False,False,False,False,False,False,False,False,False,False,False
+Creche Vovo Olmira Ltda Me,Privada,Jardim Botânico,-30.0529,-51.18562,False,False,False,False,False,False,False,False,False,False,False,False
+Centro Infantil Fabrica Dos Sonhos Ltda,Privada,Menino Deus,-30.05726,-51.227,False,True,True,True,True,True,True,True,True,True,True,True
+5088 Iei Vinde A Mim As Criancinhas,Privada,Belém Velho,-30.11963,-51.17701,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Infantil Bicho Carpinteiro-2M Ltda,Privada,Cristal,-30.09319,-51.23176,False,False,False,False,False,False,False,False,False,False,False,False
+Creare Cultura Recreacao Artes E Educacao,Privada,Tristeza,-30.11086,-51.24819,False,False,False,False,False,False,False,False,False,False,False,False
+5109 Eei Ananda Marga Restinga Nova 1,Privada,Restinga,-30.15498,-51.13689,False,False,False,False,False,False,False,False,False,False,False,False
+5009 Iei Santa Catarina,Privada,Sarandi,-29.97844,-51.13693,True,True,True,True,True,True,True,True,True,True,True,True
+5111 Eei Ananda Marga Barro Vermelho,Privada,Restinga,-30.16672,-51.14627,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Marista Tia Jussara,Privada,Arquipélago,-29.99309,-51.22431,True,True,True,True,True,True,True,True,True,True,True,True
+5121 Iei Nsa Sra Aparecida Ipanema,Privada,Ipanema,-30.13427,-51.22988,False,False,False,True,True,True,True,True,True,True,True,True
+5132 Eei Ananda Marga Restinga Nova 2,Privada,Restinga,-30.15486,-51.14146,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Girafinha Travessa,Privada,Cidade Baixa,-30.03848,-51.22358,False,False,False,False,True,True,True,True,True,True,True,False
+Escola Infantil Fazendo E Acontecendo,Privada,Tristeza,-30.10958,-51.25592,False,False,False,False,False,False,False,False,False,False,True,False
+5114 Eei Capela Navegantes,Privada,Vila Assunção,-30.09918,-51.26445,False,False,False,True,True,True,True,True,True,True,True,False
+Creche Happy Baby And Kids,Privada,Moinhos de Vento,-30.02141,-51.203,False,False,False,False,False,False,False,False,False,False,False,False
+Creche Descobrindo O Mundo,Privada,Menino Deus,-30.05033,-51.22678,True,True,True,True,True,True,True,True,True,True,True,True
+Centro Infantil Construindo,Privada,São João,-30.01088,-51.18328,False,False,False,False,False,False,False,False,False,False,False,False
+Centro Infantil Turma Do Giz De Cera,Privada,Cidade Baixa,-30.03676,-51.22157,False,False,False,False,False,False,False,False,True,True,True,False
+Escola De Educacao Infantil Voando Alto,Privada,Cavalhada,-30.10578,-51.2327,False,False,False,False,False,False,False,False,False,False,False,False
+5105 Eei Ananda Marga Restinga Velha,Privada,Restinga,-30.15986,-51.14025,False,False,False,False,False,False,False,False,False,False,False,False
+5087 Iei Nucleo Sao Francisco,Privada,Cristal,-30.09482,-51.23851,False,False,False,False,True,True,True,True,True,True,True,False
+5018 Iei Esperanca Cordeiro,Privada,Sarandi,-29.99472,-51.13007,False,False,False,False,False,False,False,False,False,False,False,False
+Creche Banze - Beatriz Regina Biffi,Privada,Vila Nova,-30.12298,-51.20976,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Laranjinha Do Ceu,Privada,Sarandi,-30.00244,-51.13786,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Pedacinho Do Ceu Soc Simples,Privada,Jardim São Pedro,-30.00984,-51.16365,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Estacao Da Felicidade,Privada,Centro Histórico,-30.03613,-51.23486,False,False,False,False,True,True,True,True,True,True,True,True
+Escola De Educacao Infantil Vovo Margarida Ltda,Privada,Nonoai,-30.08371,-51.21409,False,False,False,False,False,False,False,False,False,False,False,False
+5110 Eei Ananda Marga Juca Batista,Privada,Chapéu do Sol,-30.17473,-51.17665,False,False,False,False,False,False,False,False,False,True,True,False
+5110 Eei Ananda Marga Juca Batista,Privada,Ponta Grossa,-30.17473,-51.17665,False,False,False,False,False,False,False,False,False,True,True,False
+Eei Arte E Manha,Privada,Cavalhada,-30.09639,-51.22741,False,False,False,False,False,False,False,False,False,False,False,False
+5008 Eei Joana Darc,Privada,Sarandi,-29.99089,-51.1379,False,False,False,False,True,True,True,True,True,True,True,True
+5036 Eei Mundo Crianca,Privada,Morro Santana,-30.04555,-51.12684,False,False,False,False,False,False,False,False,False,False,False,False
+5006 Eei Trenzinho Da Alegria,Privada,Sarandi,-29.98565,-51.1153,False,False,False,True,True,True,True,True,True,True,True,True
+5043 Iei Lupicinio Rodrigues,Privada,Menino Deus,-30.045,-51.22028,False,False,False,True,True,True,True,True,True,True,True,True
+5005 Iei Vila Uniao,Privada,Sarandi,-29.97941,-51.12994,True,True,True,True,True,True,True,True,True,True,True,True
+5102 Iei Renascer Vila America,Privada,Camaquã,-30.10124,-51.24233,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Timbauva,Municipal,Mário Quintana,-30.02209,-51.09498,False,False,False,False,False,False,False,False,False,False,False,False
+5040 Iei Sagrada Familia,Privada,Morro Santana,-30.04656,-51.12939,False,False,False,False,False,False,False,False,False,False,False,False
+5052 Eei Sao Pedro,Privada,Lomba do Pinheiro,-30.11557,-51.10197,False,False,False,False,False,False,False,False,False,False,False,False
+5084 Eei Cantinho Da Crianca,Privada,Coronel Aparício Borges,-30.07552,-51.18265,False,False,False,False,False,False,False,False,False,False,False,False
+Bola E Bambole Ltda,Privada,Santana,-30.05075,-51.20516,False,False,False,False,False,False,False,False,False,False,False,False
+5045 Eei Somai,Privada,Bom Jesus,-30.04361,-51.15091,False,False,False,False,False,False,False,False,False,False,False,False
+5071 Eei Crianca Feliz,Privada,Cascata,-30.09357,-51.17439,False,False,False,False,False,False,False,False,False,False,False,False
+Creche Balao Vermelho,Privada,Menino Deus,-30.06044,-51.22977,True,True,True,True,True,True,True,True,True,True,True,True
+Clubinho Da Crianca - Berenice Amorim De Amorim -Me,Privada,Jardim Leopoldina,-30.0224,-51.11149,False,False,False,False,False,False,False,False,False,False,False,False
+5060 Iei Murialdo,Privada,Vila São José,-30.07306,-51.16371,False,False,False,False,False,False,False,False,False,False,False,False
+5031 Iei Tia Rosa,Privada,Mário Quintana,-30.03017,-51.10947,False,False,False,False,False,False,False,False,False,False,False,False
+Pre-Escola Paraiso Dos Baixinho,Privada,Cavalhada,-30.12202,-51.22452,False,False,False,False,False,False,False,False,False,False,False,False
+5033 Iei Alan Maria Tereza,Privada,Passo das Pedras,-30.02315,-51.12277,False,False,False,False,False,False,False,False,False,False,False,False
+5050 Eei Nsa Sra Aparecida Sao Pedro,Privada,Partenon,-30.05681,-51.18694,False,False,False,False,False,False,False,False,False,False,False,False
+5073 Eei Mato Grosso,Privada,Cristal,-30.08881,-51.22897,False,False,False,False,False,False,False,False,False,False,False,False
+Bercario Creche E Recreacao Neneca,Privada,Petrópolis,-30.04628,-51.18941,False,False,False,False,False,False,False,False,False,False,False,False
+5112 Eei Santa Catarina Da Restinga,Privada,Restinga,-30.16201,-51.13654,False,False,False,False,False,False,False,False,False,False,False,False
+5002 Iei Joao Paulo Ii,Privada,Farrapos,-29.97849,-51.19645,True,True,True,True,True,True,True,True,True,True,True,True
+5001 Iei Maezinha Do Ceu,Privada,Sarandi,-29.98428,-51.12131,True,True,True,True,True,True,True,True,True,True,True,True
+5081 Eei Brizollinha,Privada,Cascata,-30.0974,-51.18863,False,False,False,False,False,False,False,False,False,False,False,False
+Creche E Recreacao Lago Do Cisne Ltda,Privada,Menino Deus,-30.05065,-51.22288,False,False,False,False,True,True,True,True,True,True,True,False
+5106 Eei Nova Santa Rita,Privada,Restinga,-30.15892,-51.14392,False,False,False,False,False,False,False,False,False,False,False,False
+5074 Iei Boa Esperanca,Privada,Santa Tereza,-30.0789,-51.21842,False,False,False,False,False,False,False,False,False,False,False,False
+5117 Eei Nossa Senhora Aparecida Lot Mariante,Privada,Belém Velho,-30.11243,-51.15296,False,False,False,False,False,False,False,False,False,False,False,False
+5077 Eei Nossa Senhora De Nazare-Dom Orione,Privada,Santa Tereza,-30.0791,-51.22396,False,False,False,False,False,False,False,False,False,False,False,False
+5116 Iei Colorindo Meu Dia,Privada,Mário Quintana,-30.02682,-51.09837,False,False,False,False,False,False,False,False,False,False,False,False
+5076 Eei Dom Orione,Privada,Cristal,-30.09414,-51.2441,False,False,False,True,True,True,True,True,True,True,True,False
+5010 Iei Acompar Nucleo Ii - Santo Agostinho,Privada,Santa Rosa de Lima,-29.98544,-51.10847,False,False,False,False,True,True,True,True,True,True,True,True
+Escola De Educacao Infantil Aqui Eu Fico,Privada,Petrópolis,-30.0427,-51.19207,False,False,False,False,False,False,False,False,False,False,False,False
+5023 Eei Vo Ana,Privada,Mário Quintana,-30.02481,-51.09972,False,False,False,False,False,False,False,False,False,False,False,False
+5085 Eei Batilanos,Privada,Cascata,-30.08695,-51.18112,False,False,False,False,False,False,False,False,False,False,False,False
+5032 Iei Jerusalem Beith Shalom,Privada,Passo das Pedras,-30.02837,-51.12972,False,False,False,False,False,False,False,False,False,False,False,False
+5113 Eei Anjinho Da Guarda,Privada,Sarandi,-29.9887,-51.13473,False,False,False,False,False,False,False,True,True,True,True,True
+5012 Eei Jesus O Bom Pastor,Privada,Navegantes,-29.98883,-51.20203,True,True,True,True,True,True,True,True,True,True,True,True
+5046 Iei Nsa Sra De Fatima Novo Mundo,Privada,Mário Quintana,-30.03118,-51.11353,False,False,False,False,False,False,False,False,False,False,False,False
+5115 Iei Santa Anita,Privada,Nonoai,-30.0885,-51.22429,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Bichinho Da Goiaba,Privada,Jardim Sabará,-30.02964,-51.14458,False,False,False,False,False,False,False,False,False,False,False,False
+Reino Da Fantasia Centro De Criatividade E Recreac,Privada,Vila João Pessoa,-30.06686,-51.17549,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Infantil Viver E Conviver,Privada,Santana,-30.04799,-51.20599,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Cicla,Privada,Petrópolis,-30.04979,-51.19064,False,False,False,False,False,False,False,False,False,False,False,False
+Instituicao De Educacao Infantil Gatinho Travesso,Privada,Petrópolis,-30.04457,-51.19537,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Reino Dos Baixinhos,Privada,Morro Santana,-30.04032,-51.12827,False,False,False,False,False,False,False,False,False,False,False,False
+Creche Werner Schwuchow,Privada,Moinhos de Vento,-30.02684,-51.20904,False,False,False,False,False,False,False,False,False,False,False,False
+Baby E Cia,Privada,Nonoai,-30.08652,-51.21609,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Arte Baby Ltda,Privada,Passo D'Areia,-30.01509,-51.16678,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Projeto Pensar,Privada,Santo Antônio,-30.05679,-51.20151,False,False,False,False,False,False,False,False,False,False,False,False
+Instituicao De Educacao Infantil Tok Do Saber,Privada,Navegantes,-30.00408,-51.20413,False,False,False,True,True,True,True,True,True,True,True,True
+Escola De Educacao Infantil Construir,Privada,Cidade Baixa,-30.03955,-51.22206,False,False,False,False,False,True,True,True,True,True,True,False
+Centro Infantil Amiguinhos Da Praca Ltda,Privada,Boa Vista,-30.02671,-51.1787,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Dente De Leite,Privada,Jardim Leopoldina,-30.02383,-51.11878,False,False,False,False,False,False,False,False,False,False,False,False
+Bercario Creche Recreacao Cisne Branco Ltda,Privada,Menino Deus,-30.05094,-51.22334,False,False,False,False,True,True,True,True,True,True,True,False
+Instituicao De Educacao Infantil Brilho De Sol,Privada,Floresta,-30.01707,-51.20763,False,False,False,False,True,True,True,True,True,True,True,True
+Centro Educacional Balao Azul - Matriz,Privada,Rio Branco,-30.0305,-51.20772,False,False,False,False,False,False,False,False,False,False,False,False
+Pequeno Genio Criatividade E Lazer Ltda,Privada,Vila João Pessoa,-30.06383,-51.1736,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Mundo Magico,Privada,Santana,-30.04958,-51.20377,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Lar Do Bebe Pupileira,Privada,Moinhos de Vento,-30.02681,-51.20442,False,False,False,False,False,False,False,False,False,False,False,False
+Instituicao De Educacao Infantil Hotelzinho,Privada,Petrópolis,-30.04378,-51.18933,False,False,False,False,False,False,False,False,False,False,False,False
+Esc De Educ Inf Mimo De Gente Soc Simp Ltda Me,Privada,Cristo Redentor,-30.00911,-51.16188,False,False,False,False,False,False,False,False,False,False,False,False
+5119 Eei Crianca Cidada,Privada,Rubem Berta,-30.02099,-51.10451,False,False,False,False,False,False,False,False,False,False,False,False
+5133 Eei Amovir,Privada,Restinga,-30.14945,-51.14521,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Educacao Infantil Doce Mel,Privada,Vila Jardim,-30.0339,-51.15893,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Da Monica,Privada,Passo D'Areia,-30.01694,-51.16639,False,False,False,False,False,False,False,False,False,False,False,False
+5120 Eei Medianeira Nosso Sonho I,Privada,Passo D'Areia,-30.01294,-51.1698,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Brincar E Aprender,Privada,Independência,-30.0277,-51.21483,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Canto Dos Anjos Ltda,Privada,Floresta,-30.02429,-51.21136,False,False,False,False,False,False,True,True,True,True,True,False
+Eei Teichmann E Ritter Ltda,Privada,Moinhos de Vento,-30.02616,-51.19684,False,False,False,False,False,False,False,False,False,False,False,False
+Centro Atendimento Infantil Turma Do Moranguinho,Privada,São João,-30.00722,-51.1844,False,False,False,False,False,True,True,True,True,True,True,False
+5131 Iei Sao Vicente De Paulo,Privada,São Geraldo,-30.00776,-51.20299,False,False,False,True,True,True,True,True,True,True,True,True
+Escola De Educacao Infantil Viver E Aprender,Privada,Espírito Santo,-30.15219,-51.21981,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Semeando O Saber,Privada,Rubem Berta,-30.00291,-51.09094,False,False,False,False,False,False,False,False,False,False,False,False
+Centro Infantil Recanto Mimoso Ltda,Privada,São João,-30.00821,-51.18935,False,False,False,False,False,False,False,False,False,False,False,False
+5128 Iei Tia Helena,Privada,Mário Quintana,-30.03465,-51.12044,False,False,False,False,False,False,False,False,False,False,False,False
+5224 Iei Dom Dadeus Grings,Privada,Boa Vista do Sul,-30.20575,-51.1254,False,False,False,False,False,False,False,False,False,False,False,False
+5130 Iei Tecnobaby,Privada,Farrapos,-29.97951,-51.1969,True,True,True,True,True,True,True,True,True,True,True,True
+5156 Iei Lar Esperanca,Privada,Mário Quintana,-30.03615,-51.11989,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Moranguinho Ereili,Privada,Sarandi,-29.9873,-51.13177,False,False,False,False,True,True,True,True,True,True,True,True
+5099 Eei Amigo Spinelli,Privada,Tristeza,-30.11759,-51.24682,False,False,False,False,False,False,False,False,False,False,False,False
+Despertar Educacao Infantil Ltda,Privada,Petrópolis,-30.03324,-51.18202,False,False,False,False,False,False,False,False,False,False,False,False
+E E I Sao Francisco - Zona Sul,Privada,Tristeza,-30.10307,-51.24928,False,False,False,False,False,False,False,False,False,False,False,False
+Centro De Ensino Medio Pastor Dohms- Unidade De Ensino Zona Norte,Privada,Parque Santa Fé,-30.01468,-51.11033,False,False,False,False,False,False,False,False,False,False,False,False
+Centro Tecnologico Da Acm,Privada,Centro Histórico,-30.0295,-51.22603,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Vamos Crescer,Privada,Ipanema,-30.13635,-51.22788,False,False,False,False,True,True,True,True,True,True,True,False
+Escola De Educacao Infantil Cachinhos Dourados Ltda,Privada,Rubem Berta,-30.00235,-51.09562,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Mesquita,Privada,Cristo Redentor,-30.01111,-51.15336,False,False,False,False,False,False,False,False,False,False,False,False
+Nucl E Eja E Cp Darcy Ribeiro,Estadual,Boa Vista,-30.02449,-51.17516,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Gabarito Zona Norte,Privada,São Sebastião,-30.00911,-51.14422,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Ensino Fundamental Coronel Escobar,Privada,Santa Cecília,-30.04201,-51.20141,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Turma Do Piu-Piu,Privada,Restinga,-30.1485,-51.13802,False,False,False,False,False,False,False,False,False,False,False,False
+5123 Eei Gotinhas De Amor,Privada,Vila Conceição,-30.12091,-51.25362,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Nossa Senhora Do Carmo,Municipal,Restinga,-30.14543,-51.12789,False,False,False,False,False,False,False,False,False,False,False,False
+5127 Eei Vila Gaucha,Privada,Santa Tereza,-30.07144,-51.23268,False,False,False,False,False,False,False,False,False,False,False,False
+5124 Eei Antonio Gianelli - Lot Cavalhada,Privada,Cavalhada,-30.11715,-51.23101,False,False,False,False,False,False,False,False,False,False,False,False
+Nucl E Eja E Cp Cardeal Alfredo Vicente Scherer,Estadual,Centro Histórico,-30.03214,-51.22587,False,False,False,False,False,False,False,False,False,False,False,False
+5129 Iei Renovar Da Esperanca Ii,Privada,Restinga,-30.14634,-51.12745,False,False,False,False,False,False,False,False,False,False,False,False
+5158 Iei Escola Da Vida,Privada,Cristal,-30.08523,-51.23097,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Universo Magico,Privada,Jardim do Salso,-30.04812,-51.17195,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Lalilu Letrasin Ltda Epp,Privada,Cristo Redentor,-30.01607,-51.15565,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Recriar,Privada,Tristeza,-30.11341,-51.24728,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Nova Geracao,Privada,Santa Maria Goretti,-30.00752,-51.17849,False,False,False,False,True,True,True,True,True,True,True,True
+Colegio Marista Professora Ivone Vettorello,Privada,Glória,-30.0754,-51.20281,False,False,False,False,False,False,False,False,False,False,False,False
+5136 Iei Uniao Esperanca,Privada,Belém Velho,-30.11298,-51.16678,False,False,False,False,False,False,False,False,False,False,False,False
+5163 Eei Planeta Infantil,Privada,Restinga,-30.14812,-51.14103,False,False,False,False,False,False,False,False,False,False,False,False
+Centro Infantil A Pequena Sereia,Privada,Camaquã,-30.10699,-51.23379,False,False,False,False,False,False,False,False,False,False,False,False
+Estacao Crianca,Privada,Jardim Lindóia,-30.00541,-51.15185,False,False,False,False,False,False,False,False,False,False,False,False
+5135 Eei Antonio Gianelli,Privada,Belém Velho,-30.11615,-51.15174,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf A Turma Do Barulho,Privada,Vila João Pessoa,-30.06441,-51.17168,False,False,False,False,False,False,False,False,False,False,False,False
+5134 Ecei Marista Boa Mae,Privada,Farrapos,-29.97643,-51.19718,True,True,True,True,True,True,True,True,True,True,True,True
+Qi Escolas E Faculdades Ltda Assis Brasil,Privada,Cristo Redentor,-30.01058,-51.15278,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Ens Fund Centro Integrado De Desenvolvimento,Privada,Bom Fim,-30.03434,-51.21128,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Infantil Aquarela,Privada,Cidade Baixa,-30.04006,-51.22667,False,False,False,True,True,True,True,True,True,True,True,True
+Eei Do Sesc - Sesquinho 4 Distrito,Privada,Navegantes,-30.00438,-51.20256,False,False,False,True,True,True,True,True,True,True,True,True
+Eei Espaco Criativo,Privada,São João,-30.01594,-51.19308,False,False,False,False,False,False,False,False,False,False,False,False
+5200 Eei A Caminho Do Sol,Privada,Hípica,-30.15943,-51.17382,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Doce Caramelo,Privada,Vila Assunção,-30.10239,-51.25665,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Educacao Infantil Arte Carinho,Privada,Higienópolis,-30.0128,-51.18057,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Sementinha De Vida,Privada,Menino Deus,-30.05894,-51.22064,False,False,False,False,False,False,False,False,False,False,False,False
+5142 Iei Crescer Com Lazer,Privada,Mário Quintana,-30.02135,-51.0941,False,False,False,False,False,False,False,False,False,False,False,False
+Bizuca Escola De Educacao Infantil,Privada,Teresópolis,-30.08296,-51.20651,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Girassol,Privada,Vila Jardim,-30.0409,-51.15216,False,False,False,False,False,False,False,False,False,False,False,False
+Centro De Formacao Profissional Senai Automotivo Porto Alegre,Privada,Santa Rosa de Lima,-29.99265,-51.09526,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Filhos Do Saber,Privada,Floresta,-30.01814,-51.2074,False,False,False,False,True,True,True,True,True,True,True,True
+Escola Educacao Infantil Espaco Feliz Ltda-Me,Privada,Mont'Serrat,-30.02952,-51.18955,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Cia Da Crianca,Privada,Vila Ipiranga,-30.0186,-51.15468,False,False,False,False,False,False,False,False,False,False,False,False
+Nossa Creche Recreacoes Infantis Ltda,Privada,Auxiliadora,-30.02422,-51.19481,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Fazendo Arte,Privada,Cavalhada,-30.09447,-51.2289,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Mais Acao,Privada,Auxiliadora,-30.01914,-51.19513,False,False,False,False,False,False,False,False,False,False,False,False
+5199 Eei Mundo Da Imaginacao,Privada,Santa Tereza,-30.06806,-51.21638,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Pequeninos,Privada,Boa Vista,-30.02231,-51.17836,False,False,False,False,False,False,False,False,False,False,False,False
+Bk Escola De Educacao Infantil,Privada,Jardim Itu,-30.0115,-51.13258,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Especial Barbara Sybille Fischinger,Privada,Partenon,-30.0588,-51.1604,False,False,False,False,False,False,False,False,False,False,False,False
+Centro De Educacao Infantil Construindo O Saber,Privada,Auxiliadora,-30.021,-51.19523,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Vivendo E Aprendendo,Privada,Sarandi,-29.98433,-51.13367,False,False,False,True,True,True,True,True,True,True,True,True
+Escola Educ Inf Florestinha,Privada,Restinga,-30.15015,-51.13996,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Educ Inf Crescendo Feliz,Privada,Vila Nova,-30.12615,-51.21097,False,False,False,False,False,False,False,False,False,False,False,False
+5139 Iei Acompar Nucleo Iii,Privada,Santa Rosa de Lima,-29.9885,-51.10042,False,False,False,False,False,False,False,False,False,False,False,False
+5141 Eei Abrasce Loteamento Pampa,Privada,Farrapos,-29.98028,-51.1987,True,True,True,True,True,True,True,True,True,True,True,True
+Eei Algodao Doce,Privada,Santa Rosa de Lima,-29.99013,-51.10778,False,False,False,False,False,False,False,False,False,False,False,False
+5146 Eei Chacrinha,Privada,Restinga,-30.1665,-51.14195,False,False,False,False,False,False,False,False,False,False,False,False
+Centro Infantil Algodao Doce,Privada,Jardim Itu,-30.0121,-51.14315,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Gente Miudinha,Privada,Vila Ipiranga,-30.01796,-51.149,False,False,False,False,False,False,False,False,False,False,False,False
+5145 Iei Princesa Isabel,Privada,Azenha,-30.05103,-51.2109,False,False,False,False,False,False,False,False,False,False,False,False
+5183 Eei Favo De Mel Vila Elizabeth,Privada,Sarandi,-29.98063,-51.1315,True,True,True,True,True,True,True,True,True,True,True,True
+Centro De Estudos Educare,Privada,Jardim Itu,-30.0106,-51.13422,False,False,False,False,False,False,False,False,False,False,False,False
+5138 Iei Brincando E Aprendendo,Privada,Farrapos,-29.98781,-51.1971,True,True,True,True,True,True,True,True,True,True,True,True
+Colegio Romano Senhor Bom Jesus,Privada,Jardim Sabará,-30.04335,-51.14176,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Moinho - Escola Infantil,Privada,Petrópolis,-30.03481,-51.1804,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Ens Fund Divino Mestre,Privada,Bom Jesus,-30.0438,-51.16668,False,False,False,False,False,False,False,False,False,False,False,False
+Eep Fatepa,Privada,Centro Histórico,-30.03048,-51.22439,False,False,False,False,False,False,False,False,False,False,False,False
+5140 Eei Jesus Menino,Privada,Restinga,-30.15222,-51.13468,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Educacao Profissional Klymus,Privada,Centro Histórico,-30.03024,-51.22661,False,False,False,False,False,False,False,False,False,False,False,False
+Nucl E Eja E Cp Julieta Villamil Balestro,Estadual,Teresópolis,-30.07802,-51.20854,False,False,False,False,False,False,False,False,False,False,False,False
+5168 Eei Tia Beth,Privada,Bom Jesus,-30.05016,-51.16397,False,False,False,False,False,False,False,False,False,False,False,False
+Aprendendo A Crescer,Privada,Rio Branco,-30.03682,-51.19934,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Arte E Travessura,Privada,Vila Ipiranga,-30.01906,-51.15573,False,False,False,False,False,False,False,False,False,False,False,False
+Castelinho Aprendendo A Crescer,Privada,Jardim Carvalho,-30.04447,-51.14933,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Primeira Fase Do Saber,Privada,Jardim Europa,-30.02473,-51.15438,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Paixao De Aprender,Privada,Jardim Lindóia,-30.00233,-51.15124,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Bananinha,Privada,Sarandi,-29.9888,-51.12827,False,False,False,False,True,True,True,True,True,True,True,True
+Carrossel Recanto Infantil,Privada,Farroupilha,-30.03758,-51.21132,False,False,False,False,False,False,False,False,False,False,False,False
+Creche Anjinho Do Saber,Privada,Santa Cecília,-30.04156,-51.19971,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Joao Paulo I Higi,Privada,São João,-30.01697,-51.19259,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Crianca Vida,Privada,Petrópolis,-30.03642,-51.1769,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Adaptar,Privada,Pedra Redonda,-30.13058,-51.23875,False,False,False,False,False,False,False,False,False,False,True,False
+Polo Educacional,Privada,Vila Assunção,-30.10242,-51.25088,False,False,False,False,False,False,False,False,False,False,False,False
+5151 Eei Boa Vista,Privada,Boa Vista,-30.02341,-51.17462,False,False,False,False,False,False,False,False,False,False,False,False
+5149 Eei Egidio Piccoli,Privada,Mário Quintana,-30.04214,-51.10631,False,False,False,False,False,False,False,False,False,False,False,False
+5160 Eei Anjinhos De Cristal,Privada,Vila Nova,-30.11969,-51.20167,False,False,False,False,False,False,False,False,False,False,False,False
+5170 Iei Integracao Dos Anjos,Privada,Jardim Botânico,-30.05154,-51.19401,False,False,False,False,False,False,False,False,False,False,False,False
+5154 Iei Mundo Colorido,Privada,Humaitá,-29.99269,-51.19387,False,False,False,True,True,True,True,True,True,True,True,True
+5152 Iei Pequeno Principe,Privada,Jardim Carvalho,-30.05532,-51.14972,False,False,False,False,False,False,False,False,False,False,False,False
+5147 Eei Padre Pedro Leonardi Ii,Privada,Camaquã,-30.1052,-51.24553,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Querubim,Privada,Partenon,-30.05558,-51.19739,False,False,False,False,False,False,False,False,False,False,False,False
+Emef De Surdos Bilingue Salomao Watnick,Municipal,Partenon,-30.06352,-51.15226,False,False,False,False,False,False,False,False,False,False,False,False
+5202 Eei Girassol Lami,Privada,Lami,-30.23884,-51.08791,False,False,False,True,True,True,True,True,True,True,True,False
+Esc Educ Inf Janelinha,Privada,Boa Vista,-30.02384,-51.1738,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Profissional Fundatec,Privada,Partenon,-30.05713,-51.16869,False,False,False,False,False,False,False,False,False,False,False,False
+Sociedade Mantenedora Pro-Saber Ltda,Privada,São João,-30.01599,-51.19295,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Profissional Unitec,Privada,Centro Histórico,-30.02794,-51.22252,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Prof Fundacao Universitaria De Cardiologia,Privada,Santana,-30.04865,-51.20904,False,False,False,False,False,False,False,False,False,False,False,False
+5166 Eei Abrasce Partenon,Privada,Coronel Aparício Borges,-30.07006,-51.18329,False,False,False,False,False,False,False,False,False,False,False,False
+5165 Iei Vovo Belinha,Privada,Lomba do Pinheiro,-30.09725,-51.13614,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Descobrindo A Vida,Privada,Teresópolis,-30.07578,-51.21311,False,False,False,False,False,False,False,False,False,False,False,False
+5169 Iei Sonho Meu,Privada,Santa Tereza,-30.06793,-51.2164,False,False,False,False,False,False,False,False,False,False,False,False
+5167 Eei Padre Valle Nosso Sonho Ii,Privada,Cristo Redentor,-30.00957,-51.15656,False,False,False,False,False,False,False,False,False,False,False,False
+5164 Eei Arco Iris Ii,Privada,Restinga,-30.15579,-51.13707,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Dumbo,Privada,Aberta dos Morros,-30.15997,-51.19838,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Tia Daisy,Privada,Sarandi,-30.00656,-51.12991,False,False,False,False,False,False,False,False,False,False,False,False
+5150 Ecei Pe Luiz Pedrollo,Privada,Jardim Botânico,-30.05159,-51.19403,False,False,False,False,False,False,False,False,False,False,False,False
+5153 Eei Meu Dengo,Privada,Costa e Silva,-30.00807,-51.11428,False,False,False,False,False,False,False,False,False,False,False,False
+5159 Eei Tia Iara,Privada,Cristal,-30.08726,-51.22977,False,False,False,False,False,False,False,False,False,False,False,False
+5155 Iei Renovar Da Esperanca,Privada,Restinga,-30.15889,-51.13277,False,False,False,False,False,False,False,False,False,False,False,False
+5161 Eei Raio De Sol,Privada,Campo Novo,-30.13304,-51.19959,False,False,False,False,False,False,False,False,False,False,False,False
+5192 Eei Renascer Da Esperanca,Privada,Restinga,-30.15052,-51.14511,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Rincao,Municipal,Belém Velho,-30.11683,-51.16256,False,False,False,False,False,False,False,False,False,False,False,False
+Emef Moradas Da Hipica,Municipal,Hípica,-30.15866,-51.17137,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Mundo Dos Anjos,Privada,Rio Branco,-30.03422,-51.20636,False,False,False,False,False,False,False,False,False,False,False,False
+5172 Eei Popular Nova Geracao,Privada,Sarandi,-29.98825,-51.13452,False,False,False,False,False,False,False,True,True,True,True,True
+5176 Iei Osicom Iii,Privada,Passo das Pedras,-30.02068,-51.12702,False,False,False,False,False,False,False,False,False,False,False,False
+5219 Iei Pingo De Mel,Privada,Jardim Carvalho,-30.06765,-51.1438,False,False,False,False,False,False,False,False,False,False,False,False
+5190 Eei Pinguinhos De Ouro,Privada,Vila Nova,-30.12439,-51.21756,False,False,False,False,False,False,False,False,False,False,False,False
+5175 Iei Osicom Ii,Privada,Passo das Pedras,-30.01739,-51.12611,False,False,False,False,False,False,False,False,False,False,False,False
+5185 Eei Sao Marcos,Privada,Lomba do Pinheiro,-30.08531,-51.11548,False,False,False,False,False,False,False,False,False,False,False,False
+5189 Iei Coracao Valente,Privada,Mário Quintana,-30.0298,-51.10905,False,False,False,False,False,False,False,False,False,False,False,False
+5181 Eei Planeta Magico,Privada,Lomba do Pinheiro,-30.08521,-51.11598,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Recanto Do Saber,Privada,Jardim Sabará,-30.04163,-51.14326,False,False,False,False,False,False,False,False,False,False,False,False
+5179 Iei Dutra Jardim,Privada,Santa Rosa de Lima,-30.00109,-51.10141,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Pequeno Aprendiz,Privada,Rubem Berta,-30.01021,-51.09678,False,False,False,False,False,False,False,False,False,False,False,False
+5184 Eei Jardim Ipiranga,Privada,Jardim Europa,-30.02636,-51.15443,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Mundo Da Imaginacao,Privada,Vila João Pessoa,-30.06323,-51.1711,False,False,False,False,False,False,False,False,False,False,False,False
+5177 Eei Sao Guilherme,Privada,Partenon,-30.06734,-51.15954,False,False,False,False,False,False,False,False,False,False,False,False
+5186 Eei Cantinho Encantado,Privada,Belém Novo,-30.20668,-51.17014,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Construindo A Infancia,Privada,Cristo Redentor,-30.01689,-51.15711,False,False,False,False,False,False,False,False,False,False,False,False
+5180 Eei Portal Encantado,Privada,Lomba do Pinheiro,-30.10843,-51.14064,False,False,False,False,False,False,False,False,False,False,False,False
+5173 Eei Casa Nazare,Privada,Vila Nova,-30.10334,-51.21925,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Vida Nova,Privada,Navegantes,-29.99562,-51.2003,True,True,True,True,True,True,True,True,True,True,True,True
+Senac Saude,Privada,Passo D'Areia,-30.00942,-51.17146,False,False,False,False,False,False,False,False,False,False,True,False
+Centro De Formacao Profissional Senai Porto Alegre,Privada,Sarandi,-29.98106,-51.11562,False,False,False,False,False,False,False,False,True,True,True,True
+5201 Iei Pedaco De Gente,Privada,Mário Quintana,-30.02972,-51.10394,False,False,False,False,False,False,False,False,False,False,False,False
+Panda Escola De Educacao Infantil Ltda Me,Privada,Bela Vista,-30.02954,-51.18512,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Projeto Crescer,Privada,Santa Maria Goretti,-30.00563,-51.17845,False,False,False,False,True,True,True,True,True,True,True,True
+Esc Educ Inf Pastorzinho,Privada,Parque Santa Fé,-30.01455,-51.1093,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Brincando Com As Letras,Privada,Ipanema,-30.13268,-51.22706,False,False,False,False,False,False,False,False,False,False,False,False
+Es Educ Inf Divina Infancia,Privada,Glória,-30.08504,-51.18958,False,False,False,False,False,False,False,False,False,False,False,False
+5231 Eei Pimponeta,Privada,Sarandi,-29.98864,-51.12934,False,False,False,False,False,False,True,True,True,True,True,True
+Esc Educ Inf Pirlimpimpim,Privada,Rio Branco,-30.03723,-51.19909,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Descobrindo O Saber,Privada,Ipanema,-30.13924,-51.22655,False,False,False,False,False,False,True,True,True,True,True,False
+5193 Eei Trevo De Ouro,Privada,Guarujá,-30.1591,-51.21408,False,False,False,False,False,False,False,False,False,False,False,False
+5194 Eei Planeta Do Saber,Privada,Jardim Leopoldina,-30.01833,-51.11137,False,False,False,False,False,False,False,False,False,False,False,False
+5195 Iei Anjo Das Flores,Privada,Arquipélago,-29.98681,-51.24402,True,True,True,True,True,True,True,True,True,True,True,True
+5196 Ecei Padre Natal,Privada,Mário Quintana,-30.03267,-51.11968,False,False,False,False,False,False,False,False,False,False,False,False
+5197 Eei Tio Ze,Privada,Santa Tereza,-30.07433,-51.23184,False,False,False,False,False,False,False,False,False,False,False,False
+5198 Eei Pequenos Pesquisadores,Privada,Lomba do Pinheiro,-30.09968,-51.14361,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Geracao Alegria,Privada,São João,-30.00943,-51.1921,False,False,False,False,False,False,False,False,False,False,True,False
+5216 Eei Construindo O Amanha,Privada,Restinga,-30.15998,-51.13489,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Educ Inf Pequeno Principe Ltda,Privada,Tristeza,-30.1064,-51.24834,False,False,False,False,False,False,False,False,False,False,False,False
+5213 Iei Patati Patata,Privada,Santa Rosa de Lima,-29.99108,-51.10217,False,False,False,False,False,False,False,False,False,False,False,False
+E E Ind Ens Fun Tupe Pan,Estadual,Sétimo Céu,-30.11907,-51.24918,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Pa Pi Pum,Privada,Nonoai,-30.08733,-51.21548,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Turma Da Magali,Privada,Lomba do Pinheiro,-30.10477,-51.1156,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Mundo Do Saber,Privada,Hípica,-30.15764,-51.18872,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Arte E Cia,Privada,Medianeira,-30.0699,-51.20612,False,False,False,False,False,False,False,False,False,False,False,False
+E E Ind Ens Fun Ka Aguy Miri,Estadual,Extrema,-30.20751,-51.02832,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Amiguinhos Do Cristal,Privada,Cristal,-30.08828,-51.23813,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Conto De Fadas,Privada,Partenon,-30.06773,-51.15468,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Sitio Paraiso,Privada,Restinga,-30.15075,-51.16131,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Turma Da Monica,Privada,Lomba do Pinheiro,-30.10372,-51.11713,False,False,False,False,False,False,False,False,False,False,False,False
+Eef Crescer,Privada,Vila Jardim,-30.03387,-51.15393,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Protasio,Privada,Mário Quintana,-30.04537,-51.10251,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Ludica Infancia - Cesi Junior Zona Sul,Privada,Hípica,-30.15973,-51.18752,False,False,False,False,False,False,False,False,False,False,False,False
+Iei Canto Das Criancas,Privada,Mário Quintana,-30.03163,-51.11182,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Semear,Privada,Ipanema,-30.13735,-51.22566,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Tartaruguinha Verde Iii,Privada,Menino Deus,-30.05126,-51.22693,True,True,True,True,True,True,True,True,True,True,True,True
+Eei Crescer E Saber,Privada,Aberta dos Morros,-30.15837,-51.19271,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Brincar E Arte,Privada,Restinga,-30.15932,-51.14295,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Tartaruguinha Verde Iv,Privada,Menino Deus,-30.05133,-51.22664,True,True,True,True,True,True,True,True,True,True,True,True
+Eei Balao Azul Vivencias,Privada,Bela Vista,-30.03335,-51.18728,False,False,False,False,False,False,False,False,False,False,False,False
+Eep Escola De Ensino Medio Senac Distrito Criativo,Privada,Independência,-30.02547,-51.21146,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Meu Mundo Crianca,Privada,Glória,-30.07825,-51.19789,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Tartaruguinha V,Privada,Menino Deus,-30.05203,-51.22404,False,False,False,False,True,True,True,True,True,True,True,False
+Colegio Anchieta,Privada,Três Figueiras,-30.02954,-51.17512,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Ensino Fundamental Madre Raffo,Privada,Belém Novo,-30.21027,-51.18345,False,False,False,False,False,False,False,True,True,True,True,False
+Esc Est Ed Bas Almirante Bacelar,Estadual,Mário Quintana,-30.04655,-51.08504,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Alvarenga Peixoto,Estadual,Santana,-30.03682,-51.20899,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Duque De Caxias,Estadual,Azenha,-30.05185,-51.21579,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Eva Carminatti,Estadual,Lomba do Pinheiro,-30.09257,-51.13554,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Evaristo Goncalves Netto,Estadual,Jardim Carvalho,-30.05326,-51.15096,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Goncalves Dias,Estadual,Passo D'Areia,-30.01057,-51.17386,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Heitor Villa Lobos,Estadual,Extrema,-30.21875,-51.06042,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Henrique Farjat,Estadual,Restinga,-30.15828,-51.16095,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Humaita,Estadual,Sarandi,-29.98856,-51.12125,False,False,False,False,False,True,True,True,True,True,True,True
+Esc Est Ens Fun Erico Verissimo,Estadual,Santana,-30.03682,-51.20899,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Nossa Senhora Da Conceicao,Estadual,Pitinga,-30.14377,-51.11548,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Oscar Schmitt,Estadual,Arquipélago,-29.98769,-51.25715,False,False,False,False,True,True,True,True,True,True,True,True
+Esc Est Ens Fun Sao Caetano,Estadual,São Caetano,-30.18339,-51.07842,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Solimoes,Estadual,Lomba do Pinheiro,-30.16565,-51.08155,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Venezuela,Estadual,Medianeira,-30.06927,-51.20947,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Tiradentes Da Brigada Militar De Porto Alegre,Estadual,Coronel Aparício Borges,-30.07078,-51.18701,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Lea Rosa Cechini Brum,Estadual,Jardim do Salso,-30.05327,-51.16256,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Toyama,Estadual,Jardim Sabará,-30.03703,-51.14399,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Fun Irmao Miguel Dario,Estadual,Agronomia,-30.0689,-51.14379,False,False,False,False,False,False,False,False,False,False,False,False
+Col Estadual Eng Ildo Meneghetti,Estadual,Restinga,-30.15312,-51.14851,False,False,False,False,False,False,False,False,False,False,False,False
+Eeedprofsaude No Hospital De Clinicas De Porto Alegre,Estadual,Santa Cecília,-30.0383,-51.20526,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Lumiar,Privada,Mont'Serrat,-30.02522,-51.19161,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Turminha Da Ju,Privada,Lomba do Pinheiro,-30.10598,-51.11305,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Happy Kids,Privada,Vila Ipiranga,-30.01382,-51.14896,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Amar E Educar,Privada,Hípica,-30.15732,-51.1723,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Pedacinho Do Ceu,Privada,Mário Quintana,-30.03514,-51.11977,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Construir - Zona Sul,Privada,Vila Nova,-30.11702,-51.20419,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Gaia Educacao Infantil,Privada,Petrópolis,-30.0458,-51.19597,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Serelepe,Privada,Ipanema,-30.14515,-51.21134,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Studio School,Privada,Moinhos de Vento,-30.01986,-51.20048,False,False,False,False,False,False,False,False,False,False,True,False
+Escola De Educacao Infantil Amor De Amora,Privada,Tristeza,-30.1139,-51.25756,False,False,False,True,True,True,True,True,True,True,True,False
+Escola De Ensino Fundamental Santa Doroteia - Planalto,Privada,Jardim Itu,-30.01816,-51.13187,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Cantinho Da Crianca,Privada,Jardim Leopoldina,-30.02361,-51.118,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Balao Azul Unidade Filial,Privada,Rio Branco,-30.03149,-51.20346,False,False,False,False,False,False,False,False,False,False,False,False
+Emei Nova Gleba,Municipal,Santa Rosa de Lima,-29.99617,-51.09328,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Profissional Do Hospital Moinhos De Vento,Privada,Independência,-30.02547,-51.21146,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ens Med Tom Jobim,Estadual,Cristal,-30.07921,-51.23764,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Ens Fund Sao Francisco - Santa Fe,Privada,Parque Santa Fé,-30.01427,-51.10822,False,False,False,False,False,False,False,False,False,False,False,False
+Creche Estrelinha Magica,Privada,Rubem Berta,-30.00453,-51.09382,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Florestinha - Hipica,Privada,Hípica,-30.15805,-51.18152,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Semeando Carinho,Privada,Aberta dos Morros,-30.15876,-51.19784,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Territorios Do Aprender,Privada,Passo D'Areia,-30.01388,-51.16685,False,False,False,False,False,False,False,False,False,False,False,False
+6002 Eef Aldeia Lumiar,Privada,Tristeza,-30.11761,-51.24669,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Cilika,Privada,Cristal,-30.0982,-51.2425,False,False,False,False,False,False,False,False,False,False,True,False
+Escola De Educacao Infantil Espaco Brincar,Privada,Cristo Redentor,-30.01536,-51.15546,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Centro Adm Fernando Ferrari,Estadual,Praia de Belas,-30.03974,-51.23108,True,True,True,True,True,True,True,True,True,True,True,True
+Eei Arquiteto Batisttino Anele-Daer,Estadual,Praia de Belas,-30.04114,-51.22922,True,True,True,True,True,True,True,True,True,True,True,True
+Eei Girassol Do Aprender,Privada,Teresópolis,-30.08441,-51.20835,False,False,False,False,False,False,False,False,False,False,False,False
+Escolinha Educacional Infantil Desiderio De Paoli,Privada,Passo das Pedras,-30.02622,-51.1314,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Universitario,Privada,Teresópolis,-30.07862,-51.20894,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Cotidiana,Privada,Rio Branco,-30.03636,-51.20703,False,False,False,False,False,False,False,False,False,False,False,False
+Nucl E Eja E Cp Darcy Vargas,Estadual,Farroupilha,-30.04067,-51.21639,False,False,False,False,False,False,False,False,False,False,False,False
+Escola Tecnica Inteligencia Educacional,Privada,Floresta,-30.0187,-51.20588,False,False,False,False,False,False,False,False,False,False,False,False
+Centro De Educacao Tecnologica E Pesquisa Em Saude - Cetps - Escola Ghc,Federal,Cristo Redentor,-30.01346,-51.15952,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Est Ind Em Anhetengua,Estadual,Lomba do Pinheiro,-30.14256,-51.09311,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Engenheirinho,Privada,Pedra Redonda,-30.12311,-51.25484,False,False,False,False,False,False,False,False,True,True,True,False
+Escola Tecnica Top Cursos Brasil,Privada,Centro Histórico,-30.02743,-51.22662,False,False,False,True,True,True,True,True,True,True,True,True
+Escola De Educacao Infantil Riscos E Rabiscos,Privada,Morro Santana,-30.04371,-51.135,False,False,False,False,False,False,False,False,False,False,False,False
+5243 Eei Ananda Marga Belem Novo,Privada,Belém Novo,-30.21112,-51.17804,False,False,False,False,False,False,False,False,True,True,True,False
+Guaiba Cursos Tecnicos Ltda,Privada,Centro Histórico,-30.02796,-51.22296,False,False,False,False,False,False,False,False,False,False,False,False
+5248 Ecei Santa Barbara,Privada,Ponta Grossa,-30.1791,-51.17666,False,False,False,False,False,False,False,False,True,True,True,False
+5247 Ecei Irmao Francisco Perez,Privada,Restinga,-30.15641,-51.14169,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Interagir,Privada,Tristeza,-30.11221,-51.25165,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Gatinho Do Mato,Privada,Cristal,-30.09045,-51.23039,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Espaco Livre,Privada,Nonoai,-30.09301,-51.23083,False,False,False,False,False,False,False,False,False,False,False,False
+5246 Ecei Buscando O Saber,Privada,Restinga,-30.15545,-51.14205,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Amiguinhos Do Planeta,Privada,São Geraldo,-30.01045,-51.19463,False,False,False,False,True,True,True,True,True,True,True,True
+Eei Joaninhas Travessas,Privada,Campo Novo,-30.14656,-51.2027,False,False,False,False,False,False,False,False,False,False,False,False
+Fleming Servicos Educacionais Ltda,Privada,Rio Branco,-30.02979,-51.20815,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Unificado - Zona Sul,Privada,Tristeza,-30.10859,-51.2521,False,False,False,False,False,False,False,False,False,False,False,False
+Colegio Bertoni Med,Privada,Auxiliadora,-30.021,-51.19123,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Jardim Da Figueira,Privada,Ipanema,-30.13603,-51.23142,False,False,False,False,True,True,True,True,True,True,True,True
+Escola De Educacao Infantil Envolve E Desenvolve,Privada,Hípica,-30.15444,-51.16727,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Do Sesc Sesquinho Departamento Regional,Privada,Anchieta,-29.96959,-51.15993,True,True,True,True,True,True,True,True,True,True,True,True
+Escola Sesc Alberto Bins,Privada,Centro Histórico,-30.0282,-51.21987,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Abelhinha Murialdo,Privada,Vila São José,-30.06462,-51.16794,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Brincriar,Privada,Rubem Berta,-30.01559,-51.09965,False,False,False,False,False,False,False,False,False,False,False,False
+Centro De Educacao Infantil Piui,Privada,Sarandi,-30.00842,-51.13467,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Escolinha Da Vovo,Privada,Jardim Itu,-30.02133,-51.13636,False,False,False,False,False,False,False,False,False,False,False,False
+Joao Paulo I Praia De Belas,Privada,Santa Tereza,-30.06421,-51.23161,False,False,False,True,True,True,True,True,True,True,True,False
+Qi Escolas E Faculdades Ltda Juca Batista,Privada,Floresta,-30.0148,-51.20226,False,False,False,False,True,True,True,True,True,True,True,True
+Qi Escola De Educacao Profissional Salgado Filho,Privada,Centro Histórico,-30.03064,-51.22701,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Nosso Lindo Balao Azul Unidade Bilingue,Privada,Rio Branco,-30.03215,-51.19726,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Caramelada,Privada,Três Figueiras,-30.0356,-51.17424,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Abcdario Magico,Privada,Jardim Leopoldina,-30.02197,-51.10916,False,False,False,False,False,False,False,False,False,False,False,False
+5249 Eei Irmao Francisco Cornale,Privada,Vila Jardim,-30.02964,-51.15042,False,False,False,False,False,False,False,False,False,False,False,False
+5251 Eei Padre Pedro Scapini,Privada,Sarandi,-29.99373,-51.12891,False,False,False,False,False,False,False,False,False,False,False,False
+Escola De Educacao Infantil Criancada Bilingue,Privada,Santo Antônio,-30.05244,-51.20775,False,False,False,False,False,False,False,False,False,False,False,False
+Esc Inf Educar E Cia,Privada,Cidade Baixa,-30.04271,-51.22406,False,False,False,True,True,True,True,True,True,True,True,True
+Escola De Ensino Fundamental Sao Francisco De Assis,Privada,Navegantes,-30.00024,-51.20229,False,False,False,True,True,True,True,True,True,True,True,True
+Escola Marista De Educacao Infantil Cezar Busatto,Privada,Mário Quintana,-30.03677,-51.10088,False,False,False,False,False,False,False,False,False,False,False,False
+Forma Mais Porto Alegre,Privada,Centro Histórico,-30.03008,-51.22816,False,False,False,False,False,False,False,False,False,False,False,False
+Eei Turma Do Castelo,Privada,Vila Ipiranga,-30.01366,-51.14806,False,False,False,False,False,False,False,False,False,False,False,False

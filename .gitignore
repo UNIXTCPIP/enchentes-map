@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# base externa bruta (grande): baixar com scripts/coleta_zenodo.py
+dados/originais/zenodo/*
+!dados/originais/zenodo/metadados_coleta.json
+.claude/

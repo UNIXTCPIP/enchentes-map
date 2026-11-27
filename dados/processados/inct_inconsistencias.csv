@@ -1,0 +1,18 @@
+bairro,nivel_m,valor_original,valor_corrigido,problema,tratamento
+Arquipélago,3.0,4685,4680,valor acima da tendência (pico),repetição do primeiro valor válido (início da série)
+Arquipélago,3.5,4685,4680,valor acima da tendência (pico),interpolação linear entre vizinhos válidos
+Arquipélago,4.0,4685,4680,valor acima da tendência (pico),interpolação linear entre vizinhos válidos
+Arquipélago,4.1,4674,4680,valor abaixo da tendência (queda),interpolação linear entre vizinhos válidos
+Arquipélago,4.5,4685,4680,valor acima da tendência (pico),interpolação linear entre vizinhos válidos
+Arquipélago,5.0,4685,4680,valor acima da tendência (pico),interpolação linear entre vizinhos válidos
+Arquipélago,5.3,4688,4680,valor acima da tendência (pico),interpolação linear entre vizinhos válidos
+Centro Histórico,9.7,0,2077,zero isolado (falha de registro),interpolação linear entre vizinhos válidos
+Centro Histórico,9.8,0,2103,zero isolado (falha de registro),interpolação linear entre vizinhos válidos
+Espírito Santo,3.0,637,25,valor acima da tendência (pico),repetição do primeiro valor válido (início da série)
+Espírito Santo,3.1,637,25,valor acima da tendência (pico),repetição do primeiro valor válido (início da série)
+Espírito Santo,3.2,637,25,valor acima da tendência (pico),repetição do primeiro valor válido (início da série)
+Espírito Santo,3.3,637,25,valor acima da tendência (pico),repetição do primeiro valor válido (início da série)
+Espírito Santo,3.4,633,25,valor acima da tendência (pico),repetição do primeiro valor válido (início da série)
+Espírito Santo,4.7,2101,46,valor acima da tendência (pico),interpolação linear entre vizinhos válidos
+Lageado,8.1,0,109,zero isolado (falha de registro),interpolação linear entre vizinhos válidos
+Rubem Berta,8.8,0,268,zero isolado (falha de registro),interpolação linear entre vizinhos válidos

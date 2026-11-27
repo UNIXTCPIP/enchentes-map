@@ -1,0 +1,7 @@
+{
+  "fonte": "ObservaPOA / Prefeitura de Porto Alegre - Bairros Oficiais (SHP)",
+  "link": "https://prefeitura.poa.br/smpg/observapoa/mapas",
+  "url_arquivo": "https://drive.google.com/uc?export=download&id=1uv0Gi4oU51K9akQCg5NX087EsXTv-V5D",
+  "forma_de_coleta": "download automatizado (scripts/coleta_bairros.py)",
+  "data_coleta": "2026-11-11 10:36 -0300"
+}
