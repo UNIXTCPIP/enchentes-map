@@ -28,7 +28,7 @@ REL = RAIZ / "relatorios"
 IMG = REL / "img"
 AUTOR = "Renato Trindade"
 REPO = "https://github.com/UNIXTCPIP/enchentes-map"
-LINK_DASHBOARD = ""  # vazio: o dashboard roda localmente (streamlit run app/app.py)
+LINK_DASHBOARD = "https://enchentes-porto-alegre.streamlit.app"
 AZUL, LARANJA = "#2f6ea5", "#b8621b"
 
 ss = getSampleStyleSheet()
@@ -389,19 +389,18 @@ def relatorio_dashboard(limpo, area, escolas):
           "(06/05/2024) e a comparação usa o nível do INCT mais próximo, com passo de 0,1 m.<br/>"
           "• As manchas foram simplificadas (tolerância de 25 m) para o mapa carregar rápido."),
 
-        p("6. Execução e publicação", H2),
-        p("O dashboard é executado localmente com Streamlit: " + MONO("pip install -r requirements.txt") +
-          " e " + MONO("streamlit run app/app.py") + ", que abre em http://localhost:8501. Os dados "
-          "processados estão versionados no repositório, então não é preciso baixar nada. Se for "
-          "necessário um link público, o app está pronto para o Streamlit Community Cloud "
-          "(repositório " + REPO + ", arquivo principal " + MONO("app/app.py") + ", dependências em "
-          + MONO("app/requirements.txt") + ")."),
+        p("6. Publicação", H2),
+        p("O dashboard está publicado no Streamlit Community Cloud em https://enchentes-porto-alegre.streamlit.app, a partir do "
+          "repositório " + REPO + " (branch main, arquivo principal " + MONO("app/app.py") + ", "
+          "dependências em " + MONO("app/requirements.txt") + "). Cada push na branch main atualiza o "
+          "app. Para rodar localmente: " + MONO("pip install -r requirements.txt") + " e " +
+          MONO("streamlit run app/app.py") + "."),
 
         p("7. Histórico de versões", H2),
         p("• 28/10/2026: Fase 1, levantamento das bases (base_dados.pdf).<br/>"
           "• 11/11/2026: Fase 2, limpeza, coleta e EDA; primeira versão das duas telas.<br/>"
           "• 27/11/2026: versão final. Dependências do app separadas em app/requirements.txt, "
-          "teste completo a partir de um clone limpo do repositório, documentação de execução local; "
+          "teste completo a partir de um clone limpo do repositório, publicação no Streamlit Community Cloud; "
           "a opção de mapa 3D da Tela 1 foi removida por prejudicar a leitura."),
 
         p("Registro de uso de IA", H2),
