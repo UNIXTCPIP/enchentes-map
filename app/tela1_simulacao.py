@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-import pydeck as pdk
 import streamlit as st
 
 import dados
@@ -41,41 +40,18 @@ c3.metric("Bairros atingidos", f"{len(atingidos)} de {len(atual)}")
 
 # ---------------------------------------------------------------- mapa
 st.subheader(f"Porcentagem de prédios afetados por bairro a {dados.metros(nivel)}")
-em_3d = st.toggle("Ver em 3D (altura = % de prédios afetados)")
-if em_3d:
-    por_bairro = atual.set_index("bairro")
-    feicoes = []
-    for f in geo["features"]:
-        linha = por_bairro.loc[f["properties"]["bairro"]]
-        pct = float(linha["percentage"])
-        tom = [int(238 - 2.07 * pct), int(243 - 1.65 * pct), int(248 - 1.2 * pct)]
-        feicoes.append({"type": "Feature", "geometry": f["geometry"], "properties": {
-            "bairro": f["properties"]["bairro"], "pct": round(pct, 1),
-            "pessoas": dados.numero(linha["affected_population"]),
-            "altura": pct * 30, "cor": tom}})
-    camada = pdk.Layer("GeoJsonLayer", {"type": "FeatureCollection", "features": feicoes},
-                       extruded=True, get_elevation="properties.altura",
-                       get_fill_color="properties.cor", get_line_color=[90, 110, 130],
-                       line_width_min_pixels=1, pickable=True, opacity=0.9)
-    st.pydeck_chart(pdk.Deck(
-        layers=[camada], map_style="light",
-        initial_view_state=pdk.ViewState(latitude=-30.08, longitude=-51.17, zoom=9.8,
-                                         pitch=50, bearing=-15),
-        tooltip={"text": "{bairro}\n{pct}% dos prédios\n{pessoas} pessoas (estimativa)"}),
-        height=520)
-else:
-    mapa = px.choropleth_map(
-        atual, geojson=geo, locations="bairro", featureidkey="properties.bairro",
-        color="percentage", range_color=(0, 100), color_continuous_scale=dados.AZUIS,
-        map_style="carto-positron", center={"lat": -30.09, "lon": -51.17}, zoom=9.6, opacity=0.8,
-        hover_name="bairro",
-        hover_data={"bairro": False, "percentage": ":.1f", "affected_buildings": ":,",
-                    "affected_population": ":,"},
-        labels={"percentage": "% prédios", "affected_buildings": "Prédios afetados",
-                "affected_population": "Pessoas (estimativa)"})
-    mapa.update_layout(margin=dict(l=0, r=0, t=0, b=0), height=520,
-                       coloraxis_colorbar=dict(title="% prédios<br>afetados"))
-    st.plotly_chart(mapa, width="stretch", config={"scrollZoom": False})
+mapa = px.choropleth_map(
+    atual, geojson=geo, locations="bairro", featureidkey="properties.bairro",
+    color="percentage", range_color=(0, 100), color_continuous_scale=dados.AZUIS,
+    map_style="carto-positron", center={"lat": -30.09, "lon": -51.17}, zoom=9.6, opacity=0.8,
+    hover_name="bairro",
+    hover_data={"bairro": False, "percentage": ":.1f", "affected_buildings": ":,",
+                "affected_population": ":,"},
+    labels={"percentage": "% prédios", "affected_buildings": "Prédios afetados",
+            "affected_population": "Pessoas (estimativa)"})
+mapa.update_layout(margin=dict(l=0, r=0, t=0, b=0), height=520,
+                   coloraxis_colorbar=dict(title="% prédios<br>afetados"))
+st.plotly_chart(mapa, width="stretch", config={"scrollZoom": False})
 st.caption("Malha de bairros: ObservaPOA / Prefeitura de Porto Alegre.")
 
 # ---------------------------------------------------------------- barras e ranking

@@ -2,7 +2,6 @@ streamlit>=1.50
 pandas>=2.2
 numpy>=1.26
 plotly>=6.0
-pydeck>=0.9
 # coleta, processamento e relatórios (não usados pelo app em produção)
 requests>=2.31
 geopandas>=1.0

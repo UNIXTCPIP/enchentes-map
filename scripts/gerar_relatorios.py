@@ -104,7 +104,7 @@ def fig_wireframes():
     caixa(a1, 0, 82, 100, 7, "Controle deslizante: nível do Guaíba, 3,0 a 10,0 m, passo 0,1 m")
     for i, t in enumerate(["Pessoas afetadas", "Prédios afetados", "Bairros atingidos"]):
         caixa(a1, i * 34, 71, 32, 9, f"Indicador\n{t}", "#dbe7f3")
-    caixa(a1, 0, 44, 100, 25, "Mapa dos bairros colorido pela % de prédios afetados\n(opção 2D / 3D)")
+    caixa(a1, 0, 44, 100, 25, "Mapa dos bairros colorido pela % de prédios afetados")
     caixa(a1, 0, 17, 58, 25, "Barras: % de prédios afetados\nem cada bairro atingido")
     caixa(a1, 60, 17, 40, 25, "Ranking dos bairros\n(por pessoas ou por %)")
     caixa(a1, 0, 0, 100, 15, "Curva: população afetada na cidade por nível,\ncom o recorde de 2024 (5,35 m) marcado")
@@ -325,9 +325,9 @@ def relatorio_dashboard(limpo, area, escolas):
              "Requisito. Atualiza todos os elementos da tela. Começa em 5,3 m, o nível mais próximo do recorde."],
             ["Três indicadores: pessoas, prédios e bairros atingidos",
              "Requisito. Cada um traz a proporção em relação ao total da cidade, para dar escala."],
-            ["Mapa dos bairros colorido pela % de prédios (2D ou 3D)",
-             "Diferencial. Mostra de relance que o impacto se concentra na faixa baixa da cidade. "
-             "No modo 3D a altura do bairro também representa a porcentagem."],
+            ["Mapa dos bairros colorido pela % de prédios",
+             "Diferencial. Mostra de relance que o impacto se concentra na faixa baixa da cidade; "
+             "passar o mouse mostra os números de cada bairro."],
             ["Barras horizontais: % de prédios em cada bairro atingido",
              "Requisito. Barras ordenadas permitem comparar bairros; só aparecem os atingidos no nível escolhido."],
             ["Ranking dos 15 bairros mais afetados",
@@ -372,11 +372,10 @@ def relatorio_dashboard(limpo, area, escolas):
         p("4. Como usar", H2),
         p("1. Na Tela 1, arraste o controle do nível do Guaíba. Indicadores, mapa, barras e ranking "
           "mudam juntos; passe o mouse sobre um bairro para ver os números.<br/>"
-          "2. Ligue \"Ver em 3D\" para o mapa em perspectiva.<br/>"
-          "3. No ranking, troque entre \"Pessoas afetadas\" e \"% de prédios\".<br/>"
-          "4. Na Tela 2 (menu lateral), escolha a camada da UFRGS, a rede das escolas e, na seção das "
+          "2. No ranking, troque entre \"Pessoas afetadas\" e \"% de prédios\".<br/>"
+          "3. Na Tela 2 (menu lateral), escolha a camada da UFRGS, a rede das escolas e, na seção das "
           "curvas, um bairro.<br/>"
-          "5. Para rodar localmente: " + MONO("pip install -r requirements.txt") + " e " +
+          "4. Para rodar localmente: " + MONO("pip install -r requirements.txt") + " e " +
           MONO("streamlit run app/app.py") + "."),
 
         p("5. Limitações", H2),
@@ -403,7 +402,8 @@ def relatorio_dashboard(limpo, area, escolas):
         p("• 28/10/2026: Fase 1, levantamento das bases (base_dados.pdf).<br/>"
           "• 11/11/2026: Fase 2, limpeza, coleta e EDA; primeira versão das duas telas.<br/>"
           "• 27/11/2026: versão final. Dependências do app separadas em app/requirements.txt, "
-          "teste completo a partir de um clone limpo do repositório, documentação de execução local."),
+          "teste completo a partir de um clone limpo do repositório, documentação de execução local; "
+          "a opção de mapa 3D da Tela 1 foi removida por prejudicar a leitura."),
 
         p("Registro de uso de IA", H2),
         p("O Claude Code foi usado em 11/11/2026 e 27/11/2026 para escrever o código do dashboard e este "
