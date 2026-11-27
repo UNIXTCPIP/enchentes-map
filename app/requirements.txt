@@ -1,0 +1,7 @@
+# dependências do dashboard (o Streamlit Community Cloud usa este arquivo,
+# por estar na mesma pasta de app/app.py)
+streamlit>=1.67
+pandas>=2.2
+numpy>=1.26
+plotly>=6.0
+pydeck>=0.9
