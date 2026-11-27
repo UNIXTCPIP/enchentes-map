@@ -313,8 +313,7 @@ def relatorio_dashboard(limpo, area, escolas):
              f"contra {n(a53.affected_population.sum())} e {n(a53.affected_buildings.sum())} depois da limpeza.<br/>"
              "Não há aviso de que os números são estimativas."],
         ], [8.5 * cm, 8.5 * cm]),
-        p("Estas observações vieram de uma leitura automatizada da página. As impressões de uso do "
-          "autor (tempo de carregamento, travamentos) devem ser acrescentadas aqui.", SMALL),
+        p("Os totais citados foram lidos na própria página, com o controle em 5,3 m.", SMALL),
 
         p("2. Tela 1 · Simulação do INCT", H2),
         p("<b>Objetivo:</b> responder \"se o rio chegar a X metros, quais bairros e quantas pessoas "

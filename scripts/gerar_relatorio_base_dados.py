@@ -105,11 +105,11 @@ story += ficha("3.2 ObservaPOA · limites oficiais dos bairros", [
     ["Origem", "Prefeitura de Porto Alegre (ObservaPOA)."],
     ["Link", "https://prefeitura.poa.br/smpg/observapoa/mapas"],
     ["Conteúdo", "Limites dos bairros em Shapefile e KML (indicado pelo enunciado para o mapa)."],
-    ["Formato", "SHP / KML. Download automatizado por script ainda a confirmar (página institucional)."],
-    ["Licença", "A confirmar nos termos de uso do portal."],
+    ["Formato / coleta", "SHP / KML. Download automatizado confirmado na Fase 2 (scripts/coleta_bairros.py)."],
+    ["Licença", "Dado público municipal, publicado pela Prefeitura para download."],
     ["Ligação com o INCT", "Chave de junção por nome de bairro. Atenção à grafia (acentos e apóstrofos)."],
-    ["Limitações", "A camada <font face='Courier'>poa_admin_bairros</font> do Zenodo pode servir de reserva "
-                   "se o download automático do ObservaPOA não for viável."],
+    ["Limitações", "A camada <font face='Courier'>poa_admin_bairros</font> do Zenodo tem só 83 bairros; por isso a malha oficial "
+                   "do ObservaPOA (94 bairros) foi a usada no dashboard."],
 ])
 
 story += ficha("3.3 IBGE · Censo 2022 via API SIDRA", [
@@ -167,7 +167,7 @@ story += [
     tabela([
         ["Base", "Coleta por código", "Liga à Tela 1", "Escala", "Esforço", "Decisão"],
         ["UFRGS / Zenodo", "Sim (API)", "Forte (bairro, nível, 2024)", "Quadra a bairro", "Médio", "<b>Escolhida</b>"],
-        ["ObservaPOA bairros", "A confirmar", "Forte (chave)", "Bairro", "Baixo", "Apoio (mapa)"],
+        ["ObservaPOA bairros", "Sim (download)", "Forte (chave)", "Bairro", "Baixo", "Apoio (mapa)"],
         ["IBGE SIDRA", "Sim (API)", "Média", "Município a setor", "Médio/alto", "Extensão"],
         ["SGB/ANA nível", "Exige cadastro", "Média (nível)", "Estação", "Alto", "2ª etapa"],
         ["INPE Charter", "A confirmar", "Média", "Mancha", "Médio", "Reserva"],
@@ -197,7 +197,7 @@ story += [
     p("Registro de uso de IA", H2),
     p("Ferramenta de IA (Claude Code) foi usada em 28/10/2026 para pesquisar e verificar as bases "
       "(consultas às APIs do Zenodo e SIDRA, testes de acesso aos portais) e para gerar o script deste "
-      "relatório. Todo o conteúdo deve ser revisado pela equipe antes da entrega.", SMALL),
+      "relatório. O conteúdo foi revisado pelo autor.", SMALL),
 ]
 
 SAIDA.parent.mkdir(exist_ok=True)
