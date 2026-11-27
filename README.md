@@ -4,7 +4,12 @@ Projeto extensionista da disciplina Coleta, Preparação e Análise de Dados (PU
 
 **Aluno:** Renato Trindade
 
-**Dashboard publicado:** https://enchentes-porto-alegre.streamlit.app
+## Links
+
+- **Dashboard publicado:** https://enchentes-porto-alegre.streamlit.app
+- **Repositório:** https://github.com/UNIXTCPIP/enchentes-map
+- **Relatórios:** [base_dados.pdf](relatorios/base_dados.pdf) · [limpeza_dados.pdf](relatorios/limpeza_dados.pdf) · [dashboard.pdf](relatorios/dashboard.pdf)
+- **Análise exploratória:** [notebooks/eda.ipynb](notebooks/eda.ipynb)
 
 > Os números são estimativas de uma simulação, não previsões nem contagens oficiais.
 
